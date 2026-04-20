@@ -1,0 +1,52 @@
+URL: 'https://api.flickr.com/services/rest'
+
+credenciales_api:
+  api_key: '32635ac4794ee81256b61ba4d5d5f0d3'
+  api_secret: '7bbc3dc792658ef6'
+  access_token: '72157720921239372-a910ba8504eeffb8'
+  access_token_secret: '1b6e5f9cf2a14308'
+
+carpeta: '/Users/cgsos/Documents/Cuarto/TFG/FLICKR/datos/raw/fotos_canarias'
+
+locations:
+
+  - nombre_zona: 'gran_canaria'
+    lat: 28.1248
+    lon: -15.43
+    radius: 32
+
+  - nombre_zona: 'tenerife'
+    lat: 28.2916
+    lon: -16.6291
+    radius: 32
+
+  - nombre_zona: 'lanzarote'
+    lat: 29.0469
+    lon: -13.5899
+    radius: 32
+
+  - nombre_zona: 'fuerteventura'
+    lat: 28.3587
+    lon: -14.0537
+    radius: 32
+
+  - nombre_zona: 'la_palma'
+    lat: 28.6500
+    lon: -17.85
+    radius: 28
+
+  - nombre_zona: 'la_gomera'
+    lat: 28.0900
+    lon: -17.23
+    radius: 25
+
+  - nombre_zona: 'el_hierro'
+    lat: 27.7363
+    lon: -18.02
+    radius: 20
+
+date_range:
+  start_date: '2021-01-01'
+  end_date: 'today'
+
+extras: 'geo,date_taken,owner_name,views,media,tags,url_z'

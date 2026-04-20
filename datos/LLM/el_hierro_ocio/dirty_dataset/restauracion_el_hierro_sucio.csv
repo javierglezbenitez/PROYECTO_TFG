@@ -1,0 +1,99 @@
+establecimiento_id;establecimiento_nombre_comercial;establecimiento_grupo;direccion;direccion_isla_nombre;direccion_provincia_nombre;direccion_municipio;direccion_localidad;direccion_codigo_postal;longitud;latitud
+B-38-7-0000011;Manila;Bar-Cafeteria;C/ Doctor Quintero;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.915372;27.807218
+B-38-7-0000014;Cruz Alta;Bar-Cafeteria;C/ Cruz Alta;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38913;-18.016921;27.752703
+B-38-7-0000023;Tasca Avenida;Bar-Cafeteria;Avda. Marítima, 14;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.981453;27.640727
+B-38-7-0000025;Los Reyes;Bar-Cafeteria;C/ San Francisco;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914674;27.806199
+B-38-7-0000027;"Disco-Pub ""La Lonja""";Bar-Cafeteria;C/ San Francisco;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914674;27.806199
+B-38-7-0000034;La Paz;Bar-Cafeteria;Travesía Del Pino, 61 Planta Baja - Puerta 2 - Taibique;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.979452;27.705393
+B-38-7-0000041;La Gruta;Bar-Cafeteria;C/ Lola González;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.915567;27.807569
+B-38-7-0000063;Sabor Criollo;Bar-Cafeteria;C/ Tigaday;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;0.0;0.0
+B-38-7-0000067;Los Molinos De San Juan;Bar-Cafeteria;Avda. Dacio Darias;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.912818;27.805955
+B-38-7-0000068;Principal;Bar-Cafeteria;Juan Gutiérrez Monteverde, 25;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.980711;27.641819
+B-38-7-0000079;El Matorral (Auto Bar);Bar-Cafeteria;El Matorral, S/N;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;0.0;0.0
+B-38-7-0000081;Las Vetas;Bar-Cafeteria;C/ San Francisco;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914821;27.806112
+B-38-7-0000082;Kiosko Los Sargos;Bar-Cafeteria;"Los Sargos, S/N Charco ""Los Sargos""";El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.011705;27.783512
+B-38-7-0000084;El Rincón;Bar-Cafeteria;C/ Juan Gutiérrez Monteverde;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.98074;27.642134
+B-38-7-0000086;Bar Mentidero;Bar-Cafeteria;C/ Travesís Del Pino;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.981046;27.703813
+B-38-7-0000087;"Tasca ""El Chavelazo""";Bar-Cafeteria;General Rodríguez Y Sánchez Espinosa, 8 Pta. Baja;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.91518;27.807177
+B-38-7-0000089;"Zumería ""La Restinga""";Bar-Cafeteria;Juan Gutiérrez Monteverde, 32;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.980813;27.64166
+B-38-7-0000090;Bar El Pueblo;Bar-Cafeteria;C/ Ferinto;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38915;-17.94755;27.75026
+B-38-7-0000091;La Taguarita;Bar-Cafeteria;San Salvador, S/N;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;0.0;0.0
+B-38-7-0000093;"Tasca ""El Charquete""";Bar-Cafeteria;La Constitución, 4 Esq. C/ María Mérida;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.915556;27.808904
+B-38-7-0000094;Joapira;Bar-Cafeteria;Plaza De La Candelaria, 10;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.001329;27.755097
+B-38-7-0000095;Mar De Las Calmas;Bar-Cafeteria;Marítima, 18;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.98152;27.640682
+B-38-7-0000098;La Balaustrada;Bar-Cafeteria;C/ Doctor Quintero;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.915966;27.808292
+B-38-7-0000100;"Distoteca ""Tropicana""";Bar-Cafeteria;C/ La Constitución;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.9154;27.810078
+B-38-7-0000104;El Pinar;Bar-Cafeteria;C/ Travesía Del Pino;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.979174;27.705708
+B-38-7-0000106;"Piscolabis ""El Golfo""";Bar-Cafeteria;San Salvador, 8;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.013603;27.753084
+B-38-7-0000107;"Kiosco ""Las Puntas""";Bar-Cafeteria;"Las Casitas, 13 (Asociación De Vecinos ""Los Verodes"") - Las Puntas";El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-17.991495;27.792743
+B-38-7-0000112;La Tafeña;Bar-Cafeteria;C/ Doctor Quitero Ramos;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.915968;27.808218
+B-38-7-0000113;Dolman;Bar-Cafeteria;Barlovento, 9 Bajo - Izqda.;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38916;-17.938716;27.820498
+B-38-7-0000116;El Almendro;Bar-Cafeteria;Ctra. Gral. Las Casas;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.977159;27.712498
+B-38-7-0000117;Tasca Restingolita;Bar-Cafeteria;Marítima, 65 (34) Edificio Arenas Blancas;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.983856;27.640318
+B-38-7-0000122;Jinama;Bar-Cafeteria;C/ Tigaday - Urb. San Cristóbal (Avda. Ignación Padrón);El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.014299;27.751986
+B-38-7-0000124;Estación Marítima Puerto De La Estaca;Bar-Cafeteria;Estación Marítima Del Puerto De La Estaca,;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.900343;27.785898
+B-38-7-0000125;Kiosko 'Las Bolas';Bar-Cafeteria;Avda. Ignacio Padrón, S/N - Tigaday (Frontera);El Hierro;Santa Cruz De Tenerife;Frontera;_U;38913;-18.014353;27.752176
+B-38-7-0000126;Chachi;Bar-Cafeteria;C/ Travesía Del Pino;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.980913;27.703896
+B-38-7-0000127;La Tiendita De La Caleta;Bar-Cafeteria;Juan Gil, 5 A - Local 1;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.886656;27.801871
+B-38-7-0000128;Coffe Plus;Bar-Cafeteria;Avda. Dacio Darias;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.915556;27.811944
+B-38-7-0000129;Quesadillas La Herreña;Bar-Cafeteria;La Parragona, 2 (Las Lajas, 4) - Pta. Baja;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.009566;27.757175
+B-38-7-0000130;Arena;Bar-Cafeteria;Gral. Las Puntas, 36 Las Puntas;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-17.990087;27.793789
+B-38-7-0000131;Nani¿S Burger & B.B.Q.;Bar-Cafeteria;Benito Padrón,;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;0.0;0.0
+B-38-7-0000132;Asociación De Vecinos Del Puerto De La Estaca;Bar-Cafeteria;General Del Puerto De La Estaca, S/N;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;0.0;0.0
+B-38-7-0000133;Rincón Latino;Bar-Cafeteria;Matías Castañeda, 2 Local 1 Y 2 - Urb. San Cristóbal (Tigaday);El Hierro;Santa Cruz De Tenerife;Frontera;_U;38913;-18.013598;27.751944
+BC-38-7-0000001;Namaste;Bar-Cafeteria;C/ San Salvador;El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38911;-18.01514;27.75328
+BC-38-7-0000002;La Bonita;Bar-Cafeteria;Urb. San Cristóbal - Avda. Ignacio Padrón - Loc. 9 (Tigaday);El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38913;0.0;0.0
+BC-38-7-0000003;"La Casa Abajo Sport &Amp; Coffe";Bar-Cafeteria;C/ Tigaday;El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38913;0.0;0.0
+BC-38-7-0000004;Heladería Del Corso;Bar-Cafeteria;Avda. Marítima 4 Bajo;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;Restinga (La);38917;-17.980904;27.640967
+BC-38-7-0000005;Bimbacherry;Bar-Cafeteria;C/ San Salvador;El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38911;-18.016524;27.753483
+BC-38-7-0000006;Zabagu;Bar-Cafeteria;C/ San Francisco;El Hierro;Santa Cruz De Tenerife;Valverde;Valverde;38900;0.0;0.0
+BC-38-7-0000007;Quiosco El Charco Manso;Bar-Cafeteria;El Charco Manso - Ctra. Charco Manso [Hi-151];El Hierro;Santa Cruz De Tenerife;Valverde;_U;_U;0.0;0.0
+C-38-7-0000001;Turpial;Bar-Cafeteria;Avda. Dacio Darias;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914119;27.805064
+R-38-7-0000004;La Tasca De Candi;Restaurante;C/ Tigaday;El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38913;-18.015768;27.752403
+R-38-7-0000007;San Fleit;Restaurante;C/ Santiago;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914368;27.813111
+R-38-7-0000008;Frontera;Restaurante;Tigaday, 19 Bajo - Izq. (Tigaday);El Hierro;Santa Cruz De Tenerife;Frontera;_U;38913;-18.015527;27.752367
+R-38-7-0000009;Aeropuerto De El Hierro;Restaurante;Los Cangrejos, 1 Aeropuerto De El Hierro (Próx. A La Caleta);El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.884965;27.814067
+R-38-7-0000010;Casa Juan;Restaurante;Juan Gutiérrez Monteverde, 23;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.980631;27.641462
+R-38-7-0000013;Tamaduste;Restaurante;Tabaiba, 7;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.896149;27.824901
+R-38-7-0000014;El Guanche - Casa Bildo;Restaurante;Cruz Alta, 1;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.016394;27.752597
+R-38-7-0000018;El Refugio;Restaurante;La Lapa, 1;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.981075;27.641122
+R-38-7-0000023;Punta Grande;Restaurante;"Las Puntas, 1 Hotel ""Punta Grande"" - Punta Grande (Las Puntas)";El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-17.992109;27.797142
+R-38-7-0000025;Mirador De La Peña;Restaurante;General Del Norte, 40 La Peña;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38916;-17.980825;27.806882
+R-38-7-0000029;Bahía;Restaurante;Ctra. Gral. Timijiraque;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.91497;27.76974
+R-38-7-0000032;Yesimar;Restaurante;Juan Gil, S/N;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;0.0;0.0
+R-38-7-0000038;Lais (La&S);Restaurante;Gral. Las Puntas, 30 Las Puntas;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-17.9908;27.792576
+R-38-7-0000041;La Mirada Profunda;Restaurante;Santiago, 25;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914635;27.812777
+R-38-7-0000044;Casa Goyo;Restaurante;Jarera, 11;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38915;-17.95555;27.770615
+R-38-7-0000045;Bohemia;Restaurante;Ctra. Gral. Las Playas;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.952233;27.726463
+R-38-7-0000046;La Igualdad;Restaurante;C/ Jarera;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38915;-17.954761;27.77058
+R-38-7-0000047;Bimbache;Restaurante;C/ Los Cardones;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38910;-17.895869;27.82566
+R-38-7-0000048;Sur Restinga;Restaurante;"El Varadero, 6 Pensión ""Kai Marino""";El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.979753;27.640747
+R-38-7-0000050;Pozo De La Salud;Restaurante;C/ Pozo De La Salud;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38912;-18.10502;27.75583
+R-38-7-0000052;Lua;Restaurante;C/ Travesía Del Pino;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.981421;27.702584
+R-38-7-0000053;Amarena;Restaurante;Ctra. Gral. Las Casas;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.977321;27.711462
+R-38-7-0000057;La Penúltima;Restaurante;C/ Barlovento;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38916;-17.94214;27.82086
+R-38-7-0000058;Asadero El Faro;Restaurante;Las Lajas, 4 B;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;0.0;0.0
+R-38-7-0000060;La Higuera De Abuela;Restaurante;Tajaniscaba, S/N;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.922456;27.834047
+R-38-7-0000061;Mesón Jarera;Restaurante;C/ Jarera;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38915;-17.9552;27.770619
+R-38-7-0000065;Clandestino;Restaurante;C/ Merese;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.020183;27.752566
+R-38-7-0000066;El Encuentro;Restaurante;Los Barriales, 4;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.914802;27.815176
+R-38-7-0000067;Asador Padrón;Restaurante;C/ Artero;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.027845;27.751564
+R-38-7-0000069;La Pasada;Restaurante;La Pasada, 4;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38916;-17.969135;27.811551
+R-38-7-0000070;La Maceta;Restaurante;C/ Los Arroyos;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.008408;27.786174
+R-38-7-0000072;San Luis;Restaurante;La Constitución, 22;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38900;-17.912345;27.813561
+R-38-7-0000074;La Vieja Pandorga;Restaurante;El Rancho, S/N Esq. C/ La Lapa, 3;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.9819;27.64071
+R-38-7-0000076;La Perla Dorada;Restaurante;C/ La Corredera;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.011671;27.75361
+R-38-7-0000079;Con - Fusión;Restaurante;C/ Cascadas Del Mar;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-17.991024;27.796602
+R-38-7-0000080;Sol De España;Restaurante;Belgara, 1 Bajo;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.009209;27.756147
+R-38-7-0000084;Amore Mío;Restaurante;C/ La Lapa;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;0.0;0.0
+R-38-7-0000091;La Pizzería;Restaurante;Gral. Las Casas, 16 Las Casas;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38914;-17.977122;27.712364
+R-38-7-0000092;Balneario Pozo La Salud;Restaurante;"Pozo De La Salud, S/N Pta. Baja (Hotel ""Balneario Pozo La Salud"") - Pozo De La Salud (Próx. A Sabinosa)";El Hierro;Santa Cruz De Tenerife;Frontera;_U;38912;-18.10504;27.755735
+R-38-7-0000093;Tropical;Restaurante;C/ Las Lapas;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38911;-18.006324;27.761744
+R-38-7-0000094;Sorchante De El Hierro;Restaurante;Avda. Marítima;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;38917;-17.981868;27.640347
+R-38-7-0000095;Warapu;Restaurante;C/ Tigaday;El Hierro;Santa Cruz De Tenerife;Frontera;_U;38913;-18.017712;27.751154
+R-38-7-0000096;Bimbachinche Las Lapas;Restaurante;Las Lapas, S/N Las Lapas (Próx. A El Pinar);El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;Pinar (El);38914;0.0;0.0
+R-38-7-0000097;Aguadara;Restaurante;Casas Del Monte, 8 - B Aguadara - Erese Alto;El Hierro;Santa Cruz De Tenerife;Valverde;_U;38916;-17.955079;27.802098
+R-38-7-0000099;El Volcán De El Hierro;Restaurante;El Matorral;El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38911;-18.03337;27.75515
+R-38-7-0000100;Garañones;Restaurante;C/ Los Cantos;El Hierro;Santa Cruz De Tenerife;Frontera;Frontera;38911;-17.98921;27.797226
+R-38-7-0000101;Tasca Restingolita;Restaurante;Avda. Marítima;El Hierro;Santa Cruz De Tenerife;El Pinar De El Hierro;_U;_U;0.0;0.0
+R-38-7-0000102;Il Pomodoro;Restaurante;C/ Cruz Alta;El Hierro;Santa Cruz De Tenerife;Frontera;_U;_U;0.0;0.0

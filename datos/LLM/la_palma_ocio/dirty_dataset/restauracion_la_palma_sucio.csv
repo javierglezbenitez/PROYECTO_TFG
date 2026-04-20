@@ -1,0 +1,805 @@
+establecimiento_id;establecimiento_nombre_comercial;establecimiento_grupo;direccion;direccion_isla_nombre;direccion_provincia_nombre;direccion_municipio;direccion_localidad;direccion_codigo_postal;longitud;latitud
+B-38-5-0000004;La Peña;Bar-Cafeteria;Díaz Pimienta, 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764161;28.684404
+B-38-5-0000009;Cuatro Caminos;Bar-Cafeteria;El Pinar,;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.978142;28.77355
+B-38-5-0000011;Avenida;Bar-Cafeteria;Avda.Doctor Feming, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913771;28.659642
+B-38-5-0000013;Galicia;Bar-Cafeteria;Avda.Doctor Fleming, 4;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.9141;28.65968
+B-38-5-0000014;Los Amigos  Juan Petra;Bar-Cafeteria;Las Indias, 146;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.862532;28.504171
+B-38-5-0000015;El Roque;Bar-Cafeteria;Crta. General , 13;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.975896;28.757453
+B-38-5-0000020;Bocaccio;Bar-Cafeteria;Tendiña, 11;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.895352;28.638795
+B-38-5-0000021;Alberto;Bar-Cafeteria;La Punta,;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.94414;28.67615
+B-38-5-0000023;Del Puerto;Bar-Cafeteria;Puerto Espíndola,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.763722;28.807472
+B-38-5-0000024;Manolo;Bar-Cafeteria;Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38700;-17.909498;28.58695
+B-38-5-0000026;Miami;Bar-Cafeteria;San Sebastián, 5;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.760909;28.799362
+B-38-5-0000029;Juventud Española;Bar-Cafeteria;El Rincón, 6;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.766002;28.644329
+B-38-5-0000031;El Rincón;Bar-Cafeteria;El Granel,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.745071;28.741205
+B-38-5-0000034;Danubio;Bar-Cafeteria;General Mola, 6;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.773477;28.804216
+B-38-5-0000036;Ideal;Bar-Cafeteria;Plaza De España,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913159;28.65871
+B-38-5-0000038;La Cantina Del Gladiador;Bar-Cafeteria;Ctra. General Los Canarios, 98;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.84541;28.494301
+B-38-5-0000039;La Esquina;Bar-Cafeteria;Plaza De San Fernando, 13;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76038;28.689359
+B-38-5-0000040;Parada;Bar-Cafeteria;Carretera General, 96;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.845202;28.494134
+B-38-5-0000042;Paris;Bar-Cafeteria;Camino El Rincon;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38710;-17.76635;28.64579
+B-38-5-0000043;Central;Bar-Cafeteria;Villa De Mazo,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.780359;28.606522
+B-38-5-0000045;La Unión;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.74458;28.74022
+B-38-5-0000046;El Cubo;Bar-Cafeteria;La Galga,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.76417;28.76445
+B-38-5-0000048;Juventud Norteña;Bar-Cafeteria;La Cuesta, 66;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+B-38-5-0000049;Puente Roto;Bar-Cafeteria;Tigalate,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.79597;28.53994
+B-38-5-0000050;Tigotán;Bar-Cafeteria;Avda.General Franco, 49;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000052;El Ideal;Bar-Cafeteria;General Franco, 20;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+B-38-5-0000054;Bahía;Bar-Cafeteria;Lemus, 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766367;28.681385
+B-38-5-0000056;Caribe;Bar-Cafeteria;José Antonio, 2;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;0.0;0.0
+B-38-5-0000057;Cine Sauces;Bar-Cafeteria;Ramón Y Cajal, 6;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.773217;28.80449
+B-38-5-0000059;La Papirusa;Bar-Cafeteria;Avenida Marítima, 13;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764924;28.682241
+B-38-5-0000060;Sputnik;Bar-Cafeteria;Avenida Marítima, 11;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765064;28.682055
+B-38-5-0000062;Arepera Pay Pay;Bar-Cafeteria;Avenida Carlos Francisco Lorenzo Navarro;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913036;28.657382
+B-38-5-0000063;Teneguia;Bar-Cafeteria;Avenida 30 De Mayo;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.788333;28.662869
+B-38-5-0000064;Venezuela;Bar-Cafeteria;La Dura, 2;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.788147;28.662009
+B-38-5-0000065;Artillería;Bar-Cafeteria;Sebastián Arozena, 15;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.769947;28.678607
+B-38-5-0000066;Avenida;Bar-Cafeteria;Avenida General Franco,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000067;Central;Bar-Cafeteria;Plaza De España , 2;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38776;-17.933229;28.643882
+B-38-5-0000068;El Kristal;Bar-Cafeteria;Plaza De España,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38776;-17.933375;28.64391
+B-38-5-0000069;Miami;Bar-Cafeteria;Hernández Pérez, 12;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38776;-17.933184;28.642962
+B-38-5-0000070;Trópico;Bar-Cafeteria;Primero De Mayo, 4;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.93361;28.640761
+B-38-5-0000071;Manicomio;Bar-Cafeteria;Avenida General Franco,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000072;España;Bar-Cafeteria;Plaza De España,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933375;28.64391
+B-38-5-0000073;Omirio;Bar-Cafeteria;Carretera General,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+B-38-5-0000074;El Faro;Bar-Cafeteria;General Franco, 58;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787435;28.663389
+B-38-5-0000076;Melchor;Bar-Cafeteria;Doctor Pérez Camacho, 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761248;28.687298
+B-38-5-0000077;Zulay;Bar-Cafeteria;Calle Perez Volcan;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764625;28.683961
+B-38-5-0000078;Stop;Bar-Cafeteria;Carretera Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908481;28.632167
+B-38-5-0000081;Balta;Bar-Cafeteria;General Franco, 66;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+B-38-5-0000082;Cumbre;Bar-Cafeteria;Ctra.General,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.87399;28.6482
+B-38-5-0000084;La Dehesa;Bar-Cafeteria;Llano De La Cruz, 44;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000085;Avenida;Bar-Cafeteria;Avda.Blas Pérez González,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.760171;28.686568
+B-38-5-0000087;Pompy Doo;Bar-Cafeteria;Ctra.General, 29;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.8175;28.8125
+B-38-5-0000089;Macario;Bar-Cafeteria;Los Galguitos, 173;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.763983;28.780267
+B-38-5-0000094;El Chiche;Bar-Cafeteria;Velázquez, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.923873;28.658868
+B-38-5-0000096;Las Lapas;Bar-Cafeteria;Armas Argual,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.92293;28.66183
+B-38-5-0000098;Tívoli;Bar-Cafeteria;Playa De Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000101;La Cárcel;Bar-Cafeteria;El Rieguito, 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764476;28.682761
+B-38-5-0000102;Exlor;Bar-Cafeteria;Calle Odaly;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765073;28.682785
+B-38-5-0000105;Mesón Del Pollo;Bar-Cafeteria;Aridane, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910817;28.65877
+B-38-5-0000106;Juan Hernández;Bar-Cafeteria;Puerto Espíndola,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.763722;28.807472
+B-38-5-0000107;El Típico;Bar-Cafeteria;Avda. Marítima, 21;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764552;28.682688
+B-38-5-0000110;Baltasar Martín;Bar-Cafeteria;Santo Domigo,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;0.0;0.0
+B-38-5-0000113;Aquario;Bar-Cafeteria;Manuel De Falla, 212;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.922122;28.658463
+B-38-5-0000114;My House;Bar-Cafeteria;Carlos Fco.Lorenzo Navarro, 24;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914734;28.657579
+B-38-5-0000117;Napoleón;Bar-Cafeteria;Ramón Y Cajal, 11;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.772775;28.804727
+B-38-5-0000120;La Cobacha;Bar-Cafeteria;El Puerto,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.94736;28.65189
+B-38-5-0000122;Las Tejas;Bar-Cafeteria;Puerto Naos, 443;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911432;28.65321
+B-38-5-0000124;José Luis Brito;Bar-Cafeteria;Carretera Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908481;28.632167
+B-38-5-0000125;Corinto;Bar-Cafeteria;Avda.Enrique Mederos, 22;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.915065;28.659674
+B-38-5-0000127;Centaurea;Bar-Cafeteria;Los Canarios, 57;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.84643;28.493701
+B-38-5-0000130;José Carlos ;Bar-Cafeteria;Ctra.Las Nieves,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.77867;28.69556
+B-38-5-0000131;Leal;Bar-Cafeteria;General Mola, 16;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.771985;28.808667
+B-38-5-0000132;Kairos;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76252;28.68505
+B-38-5-0000133;Los Vinos;Bar-Cafeteria;Botazo,;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.793263;28.667034
+B-38-5-0000136;Puerto Escondido;Bar-Cafeteria;Plaza De San Fernando,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.760599;28.689024
+B-38-5-0000137;Crescencio Rodríguez;Bar-Cafeteria;Mirca,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76176;28.697614
+B-38-5-0000138;La Parrilla;Bar-Cafeteria;Malpaís,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.779632;28.607371
+B-38-5-0000140;Eme 22;Bar-Cafeteria;Enrique Mederos, 22;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.915064;28.659635
+B-38-5-0000144;Ismael Fernández;Bar-Cafeteria;Avda.José Antonio,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761009;28.686693
+B-38-5-0000145;Bolera;Bar-Cafeteria;Avda.Blas Pérez González,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.760171;28.686568
+B-38-5-0000147;Boxes;Bar-Cafeteria;Castillete, 9;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.760873;28.68708
+B-38-5-0000148;Taburiente;Bar-Cafeteria;General Franco, 5;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.879075;28.651966
+B-38-5-0000152;Rodríguez;Bar-Cafeteria;Avda.Marítima, 21;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764552;28.682688
+B-38-5-0000153;Leal;Bar-Cafeteria;Princesa Dácil, 7;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.917412;28.6566
+B-38-5-0000154;Ismael Martín Paz;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.74458;28.74022
+B-38-5-0000155;Los Faroles;Bar-Cafeteria;Ctra.General Del Sur,Km 5,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000158;Bujaz;Bar-Cafeteria;La Dura, 39;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787212;28.660642
+B-38-5-0000160;El Trebol;Bar-Cafeteria;Carretera Vueltas De Matos;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.77815;28.68441
+B-38-5-0000161;Los Tilos;Bar-Cafeteria;Los Galguitos, S/N;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.801981;28.790106
+B-38-5-0000163;Aysuragán;Bar-Cafeteria;Trasera, 49;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000164;Leal;Bar-Cafeteria;General Franco, 6;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38700;0.0;0.0
+B-38-5-0000167;Rivera;Bar-Cafeteria;Calle La Portada;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.769348;28.679398
+B-38-5-0000169;Casa Suiza;Bar-Cafeteria;Los Canarios,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.843157;28.493958
+B-38-5-0000171;Sancho;Bar-Cafeteria;13 De Septiembre, 4;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.879313;28.651438
+B-38-5-0000172;Jedey;Bar-Cafeteria;Barriada Jedey,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000175;Centauro;Bar-Cafeteria;Avda. José  Antonio,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.88039;28.6522
+B-38-5-0000178;Elumar;Bar-Cafeteria;Drago, S/N;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.804811;28.828938
+B-38-5-0000179;El Negrito;Bar-Cafeteria;Barrio De Todoque,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.903933;28.616632
+B-38-5-0000180;Galaxia;Bar-Cafeteria;Avda.Enrique Mederos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91792;28.66006
+B-38-5-0000181;Galaxia Discoteca;Bar-Cafeteria;Avda.Enrique Mederos, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.915212;28.659476
+B-38-5-0000182;Made In Italy;Bar-Cafeteria;Marítima, 35;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763257;28.684214
+B-38-5-0000184;La  Bolera;Bar-Cafeteria;Alvárez De Abreu, 33;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764713;28.682894
+B-38-5-0000186;La Carrilla, S/N;Bar-Cafeteria;L Acarrilla , S/N;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.907439;28.659374
+B-38-5-0000188;Copacabana;Bar-Cafeteria;Calle San Vicente De Paul;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763783;28.685432
+B-38-5-0000189;El Ranchito;Bar-Cafeteria;Barrio De La Laguna,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000190;Corona Roja;Bar-Cafeteria;Parque Antonio Gómez Felipe , 49;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913939;28.653256
+B-38-5-0000192;Teguayco;Bar-Cafeteria;General Franco,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933311;28.643067
+B-38-5-0000193;Caboco;Bar-Cafeteria;Ctra.Gral.San Andrés Y Sauces,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.774265;28.804703
+B-38-5-0000194;Manatial;Bar-Cafeteria;Ctra.Gral, San Andrés Y Sauces, 49;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77321;28.807071
+B-38-5-0000195;Tres Coronas;Bar-Cafeteria;Av. El Puente, 25;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765137;28.684772
+B-38-5-0000196;Rodríguez;Bar-Cafeteria;Ctra.Gral.San Andrés Y Sauces,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;0.0;0.0
+B-38-5-0000197;Pol;Bar-Cafeteria;Ramón Pol, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91705;28.659567
+B-38-5-0000199;Canarias;Bar-Cafeteria;Ctra.Gral.Tijararafe, 8;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.953844;28.712837
+B-38-5-0000200;Siete Islas;Bar-Cafeteria;Alvárez De Abreu, 65;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765439;28.681978
+B-38-5-0000201;Tasca Luis;Bar-Cafeteria;Pedro Poggio, 7;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76541;28.684169
+B-38-5-0000202;Gaysán;Bar-Cafeteria;General Franco, 10;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.80326;28.65216
+B-38-5-0000203;Del Pino;Bar-Cafeteria;Extensión Agrararia,;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;0.0;0.0
+B-38-5-0000204;El Rincón De Papá;Bar-Cafeteria;General La Polvacera, 248;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.770489;28.633361
+B-38-5-0000205;Pirata;Bar-Cafeteria;Ctar.Gral.Barlovento,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+B-38-5-0000206;María;Bar-Cafeteria;Pérez De Brito, 100;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764556;28.683622
+B-38-5-0000207;La Pradera;Bar-Cafeteria;Velachero, 16;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.767065;28.68854
+B-38-5-0000208;Caibo;Bar-Cafeteria;Apurón, 6;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765324;28.682388
+B-38-5-0000209;Prizmas;Bar-Cafeteria;José Antonio, 26;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;0.0;0.0
+B-38-5-0000210;San Nicolás;Bar-Cafeteria;San Nicolás, 13;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.88042;28.648222
+B-38-5-0000211;Bagañete;Bar-Cafeteria;Calle Progreso;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933912;28.640683
+B-38-5-0000212;Vidasor;Bar-Cafeteria;Jesús,Esq. Baltasar Martín,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761639;28.685803
+B-38-5-0000213;Canaima;Bar-Cafeteria;Ramón Y Cajal, 8;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77307;28.804527
+B-38-5-0000215;Los Faroles;Bar-Cafeteria;Ctra. Gral, 11;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.801292;28.553837
+B-38-5-0000218;El Marquito;Bar-Cafeteria;Cruz Roja, 26;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764235;28.687529
+B-38-5-0000219;Conejo Blanco;Bar-Cafeteria;Hermosilla, S/N;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000221;Tasca Chica;Bar-Cafeteria;Manuel De Falla, 26;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.922485;28.658483
+B-38-5-0000222;La Fuente;Bar-Cafeteria;Plaza  De San Juan, 7;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.74472;28.74004
+B-38-5-0000224;La Cancela;Bar-Cafeteria;Gallegos,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.840806;28.828839
+B-38-5-0000225;Nogales;Bar-Cafeteria;Cuesta  Medina-El Granel ,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.757097;28.755149
+B-38-5-0000226;San Bartolo;Bar-Cafeteria;San Bartolo, 6;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.761263;28.768744
+B-38-5-0000228;Menta-Limón;Bar-Cafeteria;Avda.El Puente, 42;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766157;28.684965
+B-38-5-0000229;Montes De Luna;Bar-Cafeteria;Carretera General Montes De Luna;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.81562;28.535236
+B-38-5-0000230;Mairali;Bar-Cafeteria;Bethencourt Morales, 37;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.76474;28.65749
+B-38-5-0000231;El Rinconcito;Bar-Cafeteria;Las Martelas, 136;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.907609;28.639479
+B-38-5-0000232;Halley;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.74454;28.739038
+B-38-5-0000233;Anmarín;Bar-Cafeteria;General Franco, 31;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+B-38-5-0000236;Doble A;Bar-Cafeteria;Sarvelio Pérez Pulido, 10;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.907816;28.659469
+B-38-5-0000238;El Mexicano;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76252;28.68505
+B-38-5-0000239;La Luz;Bar-Cafeteria;La Luz, 44;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.767251;28.681409
+B-38-5-0000240;Shell La Grama;Bar-Cafeteria;Carretera General La Grama Km 3.8;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.77154;28.662039
+B-38-5-0000243;Banot;Bar-Cafeteria;Castillete, 26;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.760154;28.688185
+B-38-5-0000244;De La Plaza;Bar-Cafeteria;General Franco, 63;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787435;28.663389
+B-38-5-0000246;La Guagua;Bar-Cafeteria;Barrio De Aguatavar, S/N;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.964977;28.727998
+B-38-5-0000247;Arepera La Terraza;Bar-Cafeteria;Treinta De Mayo, 31;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787344;28.663137
+B-38-5-0000248;Bola Bola;Bar-Cafeteria;Alvárez De Abreu, 29;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764451;28.683093
+B-38-5-0000249;La Fuente;Bar-Cafeteria;Pérez De Brito, 47;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762751;28.685469
+B-38-5-0000250;Pizzeria La Fuente;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.954965;28.711374
+B-38-5-0000251;Prismas;Bar-Cafeteria;General, 47;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;0.0;0.0
+B-38-5-0000252;La Lucha;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.954215;28.713428
+B-38-5-0000253;Delbic;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.954215;28.713428
+B-38-5-0000254;Las Indias;Bar-Cafeteria;Las Indias, 147;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.859054;28.501378
+B-38-5-0000255;Sisigan;Bar-Cafeteria;Ctra. Gral. Del Norte,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77498;28.806248
+B-38-5-0000256;La Venta;Bar-Cafeteria;Ramón Y Cajal, 1;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.773533;28.804521
+B-38-5-0000257;Winnit Carambola;Bar-Cafeteria;Calle Diaz Pimienta;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912887;28.658317
+B-38-5-0000260;La Plaza;Bar-Cafeteria;Los Galguitos,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.764718;28.780709
+B-38-5-0000261;Puerta Tres;Bar-Cafeteria;Manuel De Falla, 24;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.922259;28.658602
+B-38-5-0000262;Perdomo;Bar-Cafeteria;Avda.Marítima, 84;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.759625;28.688221
+B-38-5-0000263;Calypso;Bar-Cafeteria;Guayatanta, 15;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000264;Winnit Turbo;Bar-Cafeteria;El Puente, 21;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764986;28.684474
+B-38-5-0000265;Sala De Juegos Planet Fun;Bar-Cafeteria;Avda. Marítima, 23;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764318;28.682885
+B-38-5-0000266;Las Vegas;Bar-Cafeteria;Ctra. Gral,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77082;28.79629
+B-38-5-0000267;Salón Recreativo María;Bar-Cafeteria;Pérez De Brito, 100;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764556;28.683622
+B-38-5-0000269;Salón Tihulla;Bar-Cafeteria;Doctor Flemming , 9;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913864;28.659258
+B-38-5-0000273;La Punta;Bar-Cafeteria;Carretera La Costa;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.944961;28.668125
+B-38-5-0000276;Acosta Casimiro;Bar-Cafeteria;Puerto De Tazacorte,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.94074;28.64761
+B-38-5-0000277;Pirámide;Bar-Cafeteria;General Franco, 48;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38700;0.0;0.0
+B-38-5-0000279;Tiki-Taka;Bar-Cafeteria;Blas Pérez González, 8;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.78655;28.663702
+B-38-5-0000280;Gloria Pura;Bar-Cafeteria;La Zarza, 60;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.90861;28.659801
+B-38-5-0000282;Miraflores;Bar-Cafeteria;Miraflores,La Dehesa,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.77887;28.69683
+B-38-5-0000283;Luís;Bar-Cafeteria;Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909498;28.58695
+B-38-5-0000285;Eden;Bar-Cafeteria;Calle Angel;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912377;28.658959
+B-38-5-0000286;Fresa Y Nata;Bar-Cafeteria;Carlos Fco. Lorenzo Navarro,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91167;28.65651
+B-38-5-0000287;Buen Paso;Bar-Cafeteria;Carlos Fco. Lorenzo Navarro,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91167;28.65651
+B-38-5-0000288;Buenavista;Bar-Cafeteria;Ctra.Gral,;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+B-38-5-0000291;Ronda;Bar-Cafeteria;Vía De Ronda,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.87961;28.64782
+B-38-5-0000292;Caribe;Bar-Cafeteria;Teniente General González Del Yerro, 1;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914126;28.657232
+B-38-5-0000293;Plaza Mercado;Bar-Cafeteria;Plaza Mercado,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91667;28.6594
+B-38-5-0000295;La Molina Vieja;Bar-Cafeteria;Atabara, 20;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.74434;28.739875
+B-38-5-0000296;Augusto;Bar-Cafeteria;Calle Velazquez;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.924771;28.65966
+B-38-5-0000297;La Castellana;Bar-Cafeteria;Plaza De San Pedro, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.927145;28.654833
+B-38-5-0000298;Lomo Blanco;Bar-Cafeteria;El Morro,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933678;28.640838
+B-38-5-0000299;Las Martelas;Bar-Cafeteria;Las Martelas, 171;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909923;28.642464
+B-38-5-0000300;Arepera Las Palmeras;Bar-Cafeteria;Marítima, 31 Planta Baja;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38769;-17.909702;28.585568
+B-38-5-0000301;La Calzada;Bar-Cafeteria;General Mola,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000304;El Cristal;Bar-Cafeteria;Plaza De España,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933375;28.64391
+B-38-5-0000305;España;Bar-Cafeteria;Plaza De España,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933375;28.64391
+B-38-5-0000306;Avenida;Bar-Cafeteria;Carretera El Puerto,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.93421;28.644911
+B-38-5-0000308;Travesía;Bar-Cafeteria;San José, 218;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.771255;28.64573
+B-38-5-0000309;El Campesino;Bar-Cafeteria;Urb.San Antonio Del Mar,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.76595;28.64445
+B-38-5-0000311;El Labrador;Bar-Cafeteria;Norberto Pérez Díaz, 5;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.880121;28.650439
+B-38-5-0000313;El Americano;Bar-Cafeteria;Carretera General Tamanca;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.880952;28.650268
+B-38-5-0000314;La Cueva;Bar-Cafeteria;Doctor Moprales Pérez, 1;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.932693;28.643305
+B-38-5-0000315;Central;Bar-Cafeteria;Plaza De España, 2;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933229;28.643882
+B-38-5-0000316;Balcon Canario;Bar-Cafeteria;Las Ledas;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.78226;28.64457
+B-38-5-0000319;La Moncloa;Bar-Cafeteria;Maximiliano Darias Montesinos, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910636;28.586742
+B-38-5-0000321;Taburiente;Bar-Cafeteria;Pedro Poggio, 7;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765433;28.684163
+B-38-5-0000325;Bolero;Bar-Cafeteria;Plaza Simón Guadalupe, 2;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933483;28.644391
+B-38-5-0000326;Crisana;Bar-Cafeteria;San Telmo, 52;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.768269;28.681065
+B-38-5-0000327;San Borondón;Bar-Cafeteria;San Borondón, S/N;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.930343;28.632076
+B-38-5-0000328;"Te Con Te &Amp; Lounge";Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76252;28.68505
+B-38-5-0000329;El Remo;Bar-Cafeteria;El Remo,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91319;28.66024
+B-38-5-0000330;Tihuya;Bar-Cafeteria;San Vicente,Llano De La Cruz, 52;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000331;Bediesta;Bar-Cafeteria;Ctra.Gral, 24;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77341;28.806701
+B-38-5-0000332;Los Ángeles;Bar-Cafeteria;Fernández Taño, 1;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000333;Tamaragua;Bar-Cafeteria;Las Indias,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.867568;28.481532
+B-38-5-0000334;Tiburón;Bar-Cafeteria;Ctra.Puerto Naos, 1;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912556;28.655154
+B-38-5-0000335;H Dos O;Bar-Cafeteria;Urb. San Antonio Del Mar,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.76595;28.64445
+B-38-5-0000336;Benahores;Bar-Cafeteria;Las Lomadas,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77484;28.801909
+B-38-5-0000338; Kiosco El Chiringuito;Bar-Cafeteria;Hoyas Hondas,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.902204;28.65359
+B-38-5-0000340;P.Antonio Glez. Felipe, S/N;Bar-Cafeteria;Parque Antonio Glez. Felipe, S/N;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000341;La Gruta;Bar-Cafeteria;Avda. Carlos  Francisco  Lorenzo  Navarro , 21;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914472;28.657986
+B-38-5-0000342;Parrilla Brasilandia;Bar-Cafeteria;Vizconde Del Buen Paso, 62;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38700;-17.906288;28.656903
+B-38-5-0000344;Idafe;Bar-Cafeteria;Manuel De La Falla, 12;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910755;28.656681
+B-38-5-0000345;Kiosco La Alameda;Bar-Cafeteria;Plaza De La Alameda;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761265;28.687722
+B-38-5-0000347;Naxos;Bar-Cafeteria;Avda. Enrique Mederos, 17;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91523;28.659454
+B-38-5-0000348;Zapata;Bar-Cafeteria;Marina,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.93402;28.64069
+B-38-5-0000350;Curbelo;Bar-Cafeteria;Ctra.Gral. Tigalate,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.799153;28.550189
+B-38-5-0000351;Tahití;Bar-Cafeteria;Los Galguitos,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.764718;28.780709
+B-38-5-0000353;Costa Gris;Bar-Cafeteria;Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909498;28.58695
+B-38-5-0000355;Karaoke Pub Ghost 2;Bar-Cafeteria;Alvárez De Abreu, 33;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764713;28.682894
+B-38-5-0000356;Il Ghiottone;Bar-Cafeteria;Marítima, 4;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765464;28.681579
+B-38-5-0000357;Marabú;Bar-Cafeteria;Ctra.Gral,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.803423;28.828757
+B-38-5-0000359;Drago;Bar-Cafeteria;Avda. De Los Sauces, 36;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.772907;28.801357
+B-38-5-0000360;Angelito;Bar-Cafeteria;Las Indias,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.85839;28.50439
+B-38-5-0000361;La Placeta;Bar-Cafeteria;Placeta De Borrero, 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76318;28.684714
+B-38-5-0000362;Tasca La Plata ;Bar-Cafeteria;Jorge Montero, 14 B;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761432;28.686436
+B-38-5-0000363;Danubio;Bar-Cafeteria;Gral. Mola, 4;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.773477;28.804216
+B-38-5-0000364;Disco Albastros;Bar-Cafeteria;Capitán Cortez,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;0.0;0.0
+B-38-5-0000365;Disco Ecos;Bar-Cafeteria;Ctra.Gral.,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+B-38-5-0000366;Caza Controlada;Bar-Cafeteria;El Llanito, 199;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.789257;28.654006
+B-38-5-0000367;Estadio;Bar-Cafeteria;Avda. Enrique Mederos, 44;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.917673;28.660042
+B-38-5-0000368;Fernando Cruz Hdez.;Bar-Cafeteria;Parque Antonio Gómez Felipe,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912772;28.654556
+B-38-5-0000369;Time;Bar-Cafeteria;Mirador El Time, S/N;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.942344;28.66352
+B-38-5-0000370;Churrería El Muelle;Bar-Cafeteria;Avda. Marítima,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76252;28.68505
+B-38-5-0000372;Cinnamon Bar;Bar-Cafeteria;Calle San Telmo;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766709;28.682372
+B-38-5-0000373;Banot Ii;Bar-Cafeteria;Avda.Marítima, 51;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.760154;28.688185
+B-38-5-0000374;Sanavadit;Bar-Cafeteria;Miranda, 80;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.759584;28.701362
+B-38-5-0000376;Taberna Santi;Bar-Cafeteria;Díaz Y Suárez, 17;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.946124;28.829672
+B-38-5-0000378;La Barraca;Bar-Cafeteria;Pino De La Virgen, 1;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.980065;28.765834
+B-38-5-0000379;Chaplin;Bar-Cafeteria;Malpaises,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.779015;28.572473
+B-38-5-0000380;Castillo;Bar-Cafeteria;Pedro  Miguel  Hernández Camacho,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91133;28.65298
+B-38-5-0000381;La Terraza;Bar-Cafeteria;Los Llanos, 3;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.804771;28.828118
+B-38-5-0000384;Dos Pinos;Bar-Cafeteria;General Dos Pinos, 68;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.902618;28.65405
+B-38-5-0000385;Vidasol;Bar-Cafeteria;Cruz Roja, 4;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762912;28.686363
+B-38-5-0000386;Joan;Bar-Cafeteria;Eusebio Navarro, 31;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000387;Autobar;Bar-Cafeteria;Cajita Blanca, 19;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766874;28.684618
+B-38-5-0000388;Porlamar;Bar-Cafeteria;Plaza Castilla,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.94748;28.65199
+B-38-5-0000389;Yloryvio;Bar-Cafeteria;José López, 31;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76581;28.686402
+B-38-5-0000390;Límite;Bar-Cafeteria;Montaña Tenisca,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91581;28.65732
+B-38-5-0000391;Estación De Guaguas;Bar-Cafeteria;Ramón Pol, 36;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914631;28.661057
+B-38-5-0000392;Piolín;Bar-Cafeteria;Cruz Roja, 26;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764235;28.687529
+B-38-5-0000393;Negresco;Bar-Cafeteria;Anselmo Pérez De Brito, 47;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762684;28.685541
+B-38-5-0000396;El Borrachito;Bar-Cafeteria;Avda. Enrique Mederos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91792;28.66006
+B-38-5-0000397;Bodegón La Costa;Bar-Cafeteria;General  La Costa, 5;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000398;Jobel;Bar-Cafeteria;Llano De La Cruz, 62;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000399;Pizzería La Paila;Bar-Cafeteria;Callejón El Rieguito, 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764543;28.682829
+B-38-5-0000401;Cerv. Konig La Nao;Bar-Cafeteria;Mauricio Duque Camacho, 58;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909614;28.58533
+B-38-5-0000402;El Parque;Bar-Cafeteria;Carlos Fco.  Lorenzo Navarro, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914529;28.658017
+B-38-5-0000403;El Abuelo;Bar-Cafeteria;Pío Xii,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908405;28.657698
+B-38-5-0000404;Disco Prismas;Bar-Cafeteria;José Antonio, 28;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.77416;28.80387
+B-38-5-0000405;Estac. Shell Barlovento;Bar-Cafeteria;Ctra.Gral, Km 37,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.803244;28.831613
+B-38-5-0000406;J.Aurea Torres Díaz;Bar-Cafeteria;El Faro, S/N;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;0.0;0.0
+B-38-5-0000407;Alhelí;Bar-Cafeteria;Díaz Pimienta, 13;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912927;28.657899
+B-38-5-0000408;Kiosco;Bar-Cafeteria;Plaza De España, S/N;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913159;28.65871
+B-38-5-0000409;Puntalarga;Bar-Cafeteria;Los Quemados,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.843157;28.493958
+B-38-5-0000410;Ana  Mº Jerónimo Jerónimo;Bar-Cafeteria;Las Manchas, 260;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000411;Heladería Taburiente Cancajos;Bar-Cafeteria;Centro Comercial Cancajos,  Local 118;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.75975;28.64525
+B-38-5-0000412;León;Bar-Cafeteria;Avda. Felipe Lorenzo, 1;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.93273;28.640663
+B-38-5-0000413;La Década;Bar-Cafeteria;C.C. Cancajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.75975;28.64525
+B-38-5-0000414;Hamburguesería;Bar-Cafeteria;Maximiliano Darías Montesino, 17;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910468;28.5869
+B-38-5-0000415;La Fuentecita;Bar-Cafeteria;C.C. Cancajos,  Loc. 312;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.7598;28.651004
+B-38-5-0000417;La Vica;Bar-Cafeteria;Calvo Sotelo, 9;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38778;-17.933267;28.644241
+B-38-5-0000418;Taburiente;Bar-Cafeteria;Urb. Taburiente, 4;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38778;-17.93977;28.64709
+B-38-5-0000419;El Resbalón;Bar-Cafeteria;Lomo Blanco, 4 A;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38778;-17.933612;28.640801
+B-38-5-0000420;La Bodega;Bar-Cafeteria;Paseo Maritimo, 6;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910691;28.58651
+B-38-5-0000421;Avenida;Bar-Cafeteria;Jorge Montero, 14;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761415;28.686393
+B-38-5-0000422;Kiosco Avda. El Puente;Bar-Cafeteria;Avenida El Puente,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76741;28.6855
+B-38-5-0000423;Pizzería Casablanca;Bar-Cafeteria;C.C. Cancajos,  Loc. 108-112;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759722;28.651667
+B-38-5-0000424;El Madroñal;Bar-Cafeteria;General Mola,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.779923;28.606335
+B-38-5-0000425;La Isla De Goya;Bar-Cafeteria;Avenida Marítima, 51;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762373;28.685326
+B-38-5-0000426;Palbufet;Bar-Cafeteria;C. C. Cancajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.75975;28.64525
+B-38-5-0000428;Morey;Bar-Cafeteria;Ctra. Charco Verde, 105;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.905312;28.57835
+B-38-5-0000429;Rosario;Bar-Cafeteria;Rosario, 12;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.77082;28.681229
+B-38-5-0000430;La Parranda;Bar-Cafeteria;Calle Castillete;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761295;28.686681
+B-38-5-0000431;Tasca La  Fuente;Bar-Cafeteria;Real, 70;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.90951;28.65843
+B-38-5-0000432;Repsol La Gasolinera;Bar-Cafeteria;Carretera General;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.977775;28.763469
+B-38-5-0000433;Pizzería Internacional;Bar-Cafeteria;José López, 31;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76581;28.686402
+B-38-5-0000435;Autobar Churrería;Bar-Cafeteria;El Pueblo,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933311;28.643067
+B-38-5-0000437;Kiosco Parque;Bar-Cafeteria;Parque Antonio Gómez,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91277;28.65456
+B-38-5-0000438;Bella Vista;Bar-Cafeteria;Carretera Gral. Del Norte, Punto Kilométrico 8.450,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.747632;28.716152
+B-38-5-0000439;Chapolín Colorado;Bar-Cafeteria;Explananda Del Pto. De  Tazacorte,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38780;-17.945842;28.651865
+B-38-5-0000440;Bodeguita Del Medio;Bar-Cafeteria;Calle Alvarez De Abreu;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764904;28.682538
+B-38-5-0000441;El Greco;Bar-Cafeteria;Juana Tabares, 3;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908976;28.585563
+B-38-5-0000442;Centro Cultural Los Canarios;Bar-Cafeteria;General Los Canarios, 75;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.845831;28.494368
+B-38-5-0000443;La Luna;Bar-Cafeteria;Fernández Taño, 26;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911559;28.659143
+B-38-5-0000444;Loro Pancho;Bar-Cafeteria;Avenida Enrique Mederos;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.924344;28.661038
+B-38-5-0000445;Ángel R. Pérez Peña;Bar-Cafeteria;Adeyahamen,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.773639;28.804452
+B-38-5-0000446;Taberna La Bajada;Bar-Cafeteria;Barrio De Tenagua, 23;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;0.0;0.0
+B-38-5-0000448;El Puenting;Bar-Cafeteria;Avda. El Puente, 33;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766333;28.685091
+B-38-5-0000449;La Terraza;Bar-Cafeteria;Pto.Santa Cruz De La  Palma,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000450;Nisamar;Bar-Cafeteria;Las Indias, 10;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.85839;28.50439
+B-38-5-0000451;Kiosco La Nao;Bar-Cafeteria;Avda.Marítima,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91023;28.58602
+B-38-5-0000453;Atlántico;Bar-Cafeteria;Alvárez De Abreu, 72;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76662;28.68109
+B-38-5-0000454;Minibar;Bar-Cafeteria;"Plaza De La Constitución, 12 ; Edif. Tagomago, Local 32,";La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914318;28.658409
+B-38-5-0000455;Fe Y Alegria  El Chorro ;Bar-Cafeteria;La Punta, 346;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;0.0;0.0
+B-38-5-0000457;Shell;Bar-Cafeteria;Carretera General El Paso, Recta Padrón, S/N;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000458;Caótico;Bar-Cafeteria;Mauricio Duque Camacho, 17;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910002;28.587117
+B-38-5-0000459;Kiosco El Puertito;Bar-Cafeteria;Dársena Pesquera, Local 18;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+B-38-5-0000460;Savoy;Bar-Cafeteria;Avda. Doctor Fleming, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913978;28.658478
+B-38-5-0000461;Trébol;Bar-Cafeteria;Cruz Roja, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.8946;28.62621
+B-38-5-0000462;Melody;Bar-Cafeteria;Maximiliano Díaz Darías,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000463;La Botica;Bar-Cafeteria;Carlos Fco.Lorenzo Navarro, 48;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912014;28.656632
+B-38-5-0000465;Roser;Bar-Cafeteria;General El Pueblo, 13;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;0.0;0.0
+B-38-5-0000466;Tasca La Tradición;Bar-Cafeteria;La  Laguna, 36;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910654;28.631649
+B-38-5-0000467;Disco Pub Kapitol;Bar-Cafeteria;"Plaza De La Constitución; C.C. Tagomago, 12 Loc. 8";La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000468;Casa Augusto;Bar-Cafeteria;Ctra. General Montes De Luna, 58;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.815207;28.536143
+B-38-5-0000469;Mcgiver;Bar-Cafeteria;Montes De Lina, 52;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;0.0;0.0
+B-38-5-0000470;Pk2;Bar-Cafeteria;Avda 30 De Mayo, 17;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+B-38-5-0000471;Moon Beach;Bar-Cafeteria;C.C. Cascajos,  Loc. 102;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000472;Ali Döner Kebab;Bar-Cafeteria;Avda. Maritima, 23;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764318;28.682885
+B-38-5-0000473;Terraza De Verano La Plantación;Bar-Cafeteria;Avda Maritima (Junto A Canchas Polideportivas), S/N;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76252;28.68505
+B-38-5-0000475;Bola Bola;Bar-Cafeteria;Atlántida, 39;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.78793;28.660708
+B-38-5-0000476;Tasca Baroa;Bar-Cafeteria;San Fernando, 10;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764135;28.684054
+B-38-5-0000477;Imperial;Bar-Cafeteria;Carretera General Los Canarios, 81;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.845658;28.494297
+B-38-5-0000478;Bar Discoteca  Rumbos;Bar-Cafeteria;Ctro. Cial. Los Cancajos, S/N Loc. 119-120;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.7598;28.651004
+B-38-5-0000479;Bierbrug;Bar-Cafeteria;C.C. Cancajos, 314;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000480;Kilómetro 48;Bar-Cafeteria;Carretera General 5 Km 48, S.N.;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000481;Palmerita Café;Bar-Cafeteria;General A Puerto Naos, 234;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908376;28.632103
+B-38-5-0000482;Basílica El Convento;Bar-Cafeteria;La Pasión, S.N.;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914764;28.658669
+B-38-5-0000483;La Taberna;Bar-Cafeteria;Perez Volcán, 3;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764901;28.683851
+B-38-5-0000485;Paralelo;Bar-Cafeteria;Doctor Fleming, 14;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914301;28.65851
+B-38-5-0000486;Master Off Pappas;Bar-Cafeteria;Avenida Tanausu;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914613;28.658814
+B-38-5-0000488;Julio;Bar-Cafeteria;La Lomadita, 24;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.748474;28.717585
+B-38-5-0000490;Utopía;Bar-Cafeteria;Fernádez Taño, 9;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912556;28.659275
+B-38-5-0000491;Guayarmina;Bar-Cafeteria;Avda Treinta De Mayo, 35;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787425;28.662942
+B-38-5-0000492;Edén;Bar-Cafeteria;Edificio Centrocancajos, Loc. 305;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759955;28.650673
+B-38-5-0000493;Javier;Bar-Cafeteria;Urbanización Benahoare, S.N.;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.770312;28.689273
+B-38-5-0000494;La Hacienda;Bar-Cafeteria;Llano De San Pedro, 4;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000495;Antonio J. Batista M.;Bar-Cafeteria;Polongación Avda. El Puente, S.N.;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000496;San Bartolo;Bar-Cafeteria;San Bartolomé. La Galga,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.759562;28.768083
+B-38-5-0000498;Dropalma S.L.;Bar-Cafeteria;General Serrador, S.N.;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38778;-17.934148;28.64199
+B-38-5-0000501;Nuevo Almacen;Bar-Cafeteria;Las Rosas, 18 A;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.915928;28.652923
+B-38-5-0000502;Hamburgueseria El Drago;Bar-Cafeteria;Drago, 1;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.804547;28.828662
+B-38-5-0000504;Quiosco La Grama;Bar-Cafeteria;La Grama. Esquina Calle Benahoare,;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.777705;28.661287
+B-38-5-0000505;G.A.S.A.M.;Bar-Cafeteria;San Antonio Del Monte,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.91776;28.81665
+B-38-5-0000506;Guaryn;Bar-Cafeteria;Calle Angelica Luis Acosta;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;0.0;0.0
+B-38-5-0000507;Casa De Adolfo;Bar-Cafeteria;Velhoco, 72;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.783927;28.691119
+B-38-5-0000508;El Bucanero;Bar-Cafeteria;Avda. Maritima., 23;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91026;28.586486
+B-38-5-0000509;Pub Mil ... K;Bar-Cafeteria;Carlos Francisco Lorenzo Navarro, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913289;28.657353
+B-38-5-0000510;C.V. San Antonio;Bar-Cafeteria;C.V. Volcán De San Antonio,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.847213;28.48953
+B-38-5-0000511;Bodegón San Antonio;Bar-Cafeteria;Carretera General, 6;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.955686;28.711258
+B-38-5-0000512;Acerina;Bar-Cafeteria;Islas Canarias, 13;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.8816;28.65077
+B-38-5-0000513;Autobar Erianet;Bar-Cafeteria;La Punta,;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.943425;28.672978
+B-38-5-0000515;Drakkar;Bar-Cafeteria;Estacion Maritima Del Puerto De Santa Cruz De La Palma;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765243;28.675633
+B-38-5-0000516;Versalles;Bar-Cafeteria;El Jesús, 80;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.950401;28.696811
+B-38-5-0000517;El Quijote;Bar-Cafeteria;Tigalate, 74;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.80201;28.55112
+B-38-5-0000518;Hamburguesería El Cruce;Bar-Cafeteria;Gumersindo Galván De Las Casas, 1;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000519;Backería;Bar-Cafeteria;Urbanización La Cascada,  Loc. 34;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000520;Amanecer;Bar-Cafeteria;Carretera General El Pueblo;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.779804;28.607371
+B-38-5-0000522;Yenet La Palma;Bar-Cafeteria;Los Rosales. Los Cancajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.75939;28.643768
+B-38-5-0000523;Cara A Cara;Bar-Cafeteria;C. Comercial Cancajos, Locales 301-302,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000524;Educo;Bar-Cafeteria;Olén, 1 Loc. 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000525;Pub Hannen Plaza;Bar-Cafeteria;Plaza José Mata, S/N;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765498;28.684909
+B-38-5-0000526;La Buhardilla;Bar-Cafeteria;Angel, 16;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912262;28.659274
+B-38-5-0000528;Punto De Encuentro;Bar-Cafeteria;Avenida Sarbelio Perez Pulido;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.90746;28.659189
+B-38-5-0000529;Tabaiba;Bar-Cafeteria;Centro Comercial Cancajos,  Loc. 104-105;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.7598;28.651004
+B-38-5-0000530;Bodeguita El Puente;Bar-Cafeteria;El Puente, 26;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765178;28.685075
+B-38-5-0000531;Los Amigos;Bar-Cafeteria;Camino Nacinal Tijarafe , 1;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;0.0;0.0
+B-38-5-0000533;Nicole;Bar-Cafeteria;Calle Vizconde De Buen Paso;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91452;28.657498
+B-38-5-0000534;Los Almendros;Bar-Cafeteria;Cuatro Caminos, 2;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.978061;28.773276
+B-38-5-0000535;Carybom;Bar-Cafeteria;Plaza De La Constitucion;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764766;28.683218
+B-38-5-0000536;El Chamo;Bar-Cafeteria;Avenida Carlos Francisco Lorenzo Navarro, 15;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913918;28.658649
+B-38-5-0000537;Garome ;Bar-Cafeteria;Crta. General  Tinizara , 15;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.968544;28.744837
+B-38-5-0000538;La Dolce  Vita;Bar-Cafeteria;Explanada , 4 A;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.94492;28.651234
+B-38-5-0000539;La Cumbre;Bar-Cafeteria;Crta. Tf-812, P.K-900, Margen Derecho, S/N;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000540;La Taberna Del Ron;Bar-Cafeteria;Convento-El Trocadero, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000541;El Atajo;Bar-Cafeteria;Todoque , 457;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000542;Autobar Wahu;Bar-Cafeteria;Playa  Nogales , S/N;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;0.0;0.0
+B-38-5-0000543;Ali Döner Kebab;Bar-Cafeteria;Fernández Taño , 18 Bajo;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911927;28.659154
+B-38-5-0000544;Discoteca Xava;Bar-Cafeteria;Ramon Pol, Edificio Milenium, 11 1 Izq.;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91625;28.66074
+B-38-5-0000545;Tasca La Cuatro ;Bar-Cafeteria;Blas Simon , 4;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765806;28.681782
+B-38-5-0000546;Disco  Pub Avalon;Bar-Cafeteria;Ramon Pol  Edificio  Milleniúm , 1 Esc. Derecha;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91625;28.66074
+B-38-5-0000547;Lusiman Reyes;Bar-Cafeteria;Avenida  Carlos  Francisco  Lorenzo  Navarro , 75;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908364;28.656607
+B-38-5-0000548;Kiosko La Zamora;Bar-Cafeteria;Playa De La Zamora, S/N;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.875278;28.514444
+B-38-5-0000549;Bar El Tipico Ii;Bar-Cafeteria;Centro Comercial Cancajos, 202;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759608;28.646611
+B-38-5-0000550;El Varadero ;Bar-Cafeteria;La Explanada  De El Puerto ,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000551;Casa Pepita Ii;Bar-Cafeteria;Crta. General , 68;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.843465;28.494028
+B-38-5-0000552;Kiosco La Caldera ;Bar-Cafeteria;Plaza De  Los Barros , S/N;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.919598;28.664715
+B-38-5-0000553;Planet  Fun Los Llanos ;Bar-Cafeteria;Ramon Pol - Edificio  Multicines Millenium, S/N;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91625;28.66074
+B-38-5-0000554;Tasca Barbanera ;Bar-Cafeteria;Avda Jose Antonio-Edificio  Hermano Pedro , 14;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.880104;28.653288
+B-38-5-0000555;Beach Bar Puerto Naos;Bar-Cafeteria;Avenida  Maritima  De Puerto Naos, 27;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909844;28.585787
+B-38-5-0000556;Kiosco  Cocomar;Bar-Cafeteria;Playa  De La Bombilla , 40;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.919726;28.592774
+B-38-5-0000558;Piscolabis;Bar-Cafeteria;Centro Comercial Los Cancajos , S/N Loc. 121;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.7598;28.651004
+B-38-5-0000559;Piscina  Baltavida ;Bar-Cafeteria;La Constitución , 39;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.78297;28.664366
+B-38-5-0000560;La Herradura ;Bar-Cafeteria;Álvarez De Abreu , 73;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765923;28.681468
+B-38-5-0000561;La Locanda;Bar-Cafeteria;Avenida De La Constitucion;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933885;28.644171
+B-38-5-0000562;El Mister;Bar-Cafeteria;José Mata, 29 (Avda. El Puente);La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000563;La Cantina El Charco Azul ;Bar-Cafeteria;Zona Recreativa El Charco Azul,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.761861;28.807992
+B-38-5-0000564;La Acera Ancha;Bar-Cafeteria;Anselmo Pérez  De Brito , 46;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762746;28.68526
+B-38-5-0000565;D-Zero;Bar-Cafeteria;Calle Alvarez De Abreu;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765696;28.681677
+B-38-5-0000566;La Esquina;Bar-Cafeteria;Doctor Fleming , 17;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913934;28.658538
+B-38-5-0000567;Kiosco Tijarafe ;Bar-Cafeteria;Carretera General  Lp-1, 18;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.956258;28.711262
+B-38-5-0000569;Tasca El Cuarto De Tula ;Bar-Cafeteria;Avda. Marítima , 48;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762626;28.685236
+B-38-5-0000570;Plaza Bistro-Crepería;Bar-Cafeteria;Callejón  El Rieguito , 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764474;28.682872
+B-38-5-0000571;Autor Bar  Wahu Ii;Bar-Cafeteria;Cruz  Herrera , 4;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.75327;28.754279
+B-38-5-0000572;La Tasca De Santi;Bar-Cafeteria;Hotel Las Olas - Edif. La Gomera, Local C2 - Los Cancajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.75906;28.644362
+B-38-5-0000573;La Zarza;Bar-Cafeteria;Estación De Servicios - Cruce San Antonio Del Monte,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.907453;28.80546
+B-38-5-0000574;Jon & Jor Millenium;Bar-Cafeteria;Ramón Pol- Edf. Multicines Millenium, 11;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914652;28.661291
+B-38-5-0000575;El Mercado;Bar-Cafeteria;El Mercado De Abastos, Lonja , 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000576;Bar Parque Paraíso De Las Aves;Bar-Cafeteria;Panadero, 16;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.888516;28.644801
+B-38-5-0000577;Bar Terraza;Bar-Cafeteria;Nueva , 3;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.94561;28.82939
+B-38-5-0000578;Autobar Nautilus;Bar-Cafeteria;Margen Izdo. Carretera La Costa, Puntalarga,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.867672;28.48157
+B-38-5-0000579;Isla Bonita;Bar-Cafeteria;Guayafanta, S/N;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.918706;28.654581
+B-38-5-0000580;Tasca El Patio;Bar-Cafeteria;Rosario, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910979;28.658364
+B-38-5-0000581;Churreria El Muelle;Bar-Cafeteria;Antigua Estacion Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76615;28.68037
+B-38-5-0000582;Bodeguita Hijos De Julián;Bar-Cafeteria;Ctra. Las Indias-La Costa, 112;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.845004;28.491026
+B-38-5-0000583;Kiosco La Salemera;Bar-Cafeteria;Playa De La Salemera,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.769684;28.595265
+B-38-5-0000584;La Costa;Bar-Cafeteria;Pie Laja, Ctra. La Costa, 17;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;0.0;0.0
+B-38-5-0000585;Borrachito'S Pub;Bar-Cafeteria;Ramón Pol, Edif Multicines Millenium, 11 2 Izq;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91625;28.66074
+B-38-5-0000586;Tasca Tres Palmeras;Bar-Cafeteria;Avda. La Constitución, 5  Bajo;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933332;28.643723
+B-38-5-0000588;El Flamenquito;Bar-Cafeteria;Avenida José Antonio, 11 Loc. 4;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000589;Casa De La Cultura;Bar-Cafeteria;Calle Republica De Venezuela;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.745539;28.73916
+B-38-5-0000590;Kiosco Camu-Camu;Bar-Cafeteria;Plaza De Las Tricias,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;0.0;0.0
+B-38-5-0000591;Café París;Bar-Cafeteria;Avda. Doctor Fleming, 24;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914391;28.657946
+B-38-5-0000593;Dulce Paladar;Bar-Cafeteria;Avda. Marítima, 48;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762581;28.68529
+B-38-5-0000594;Central La Laguna;Bar-Cafeteria;Ctra. La Laguna, 9;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.90885;28.63574
+B-38-5-0000595;Tasca El Galope;Bar-Cafeteria;Joaquín Turina, 27 Bajo;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.919147;28.659123
+B-38-5-0000596;Patria;Bar-Cafeteria;Álvarez De Abreu, 42;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764888;28.682694
+B-38-5-0000597;Kiosco Muelle;Bar-Cafeteria;Muelle Pesquero,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000598;Junonia;Bar-Cafeteria;Ctra. General Fuencaliente, 69;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.845309;28.493995
+B-38-5-0000599;Kiosco Tasquita El Retiro;Bar-Cafeteria;Cmno. Pampillo, 156;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.91149;28.61335
+B-38-5-0000600;Ba Ban Café;Bar-Cafeteria;Pedro José Viña Díaz, 30;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.93263;28.64055
+B-38-5-0000602;Tasca La Habana;Bar-Cafeteria;Centro Cancajos,  Loc. 216;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759955;28.650673
+B-38-5-0000605;El Sevillano;Bar-Cafeteria;Avenida Enrique Mederos;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.915437;28.659726
+B-38-5-0000606;Tetería Kcho Té;Bar-Cafeteria;Fermín Sosa, 2;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.88028;28.651345
+B-38-5-0000607;New York;Bar-Cafeteria;Avda. Doctor Fleming, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913946;28.658433
+B-38-5-0000609;Ciber-Café Bistro;Bar-Cafeteria;C/ Antonio Pino Pérez, 12;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.882389;28.651787
+B-38-5-0000610;Chichiriviche La Palma;Bar-Cafeteria;Edificio Centro Cancajos;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759518;28.651641
+B-38-5-0000611;Lavazza;Bar-Cafeteria;Aeropuerto De La Palma - La Bajita;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.755113;28.625881
+B-38-5-0000612;La Pausa;Bar-Cafeteria;Aeropuerto De La Palma - La Bajita;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.755113;28.625881
+B-38-5-0000613;Mahou Sport;Bar-Cafeteria;Aeropuerto De La Palma - La Bajita;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.755113;28.625881
+B-38-5-0000614;Ruta 22 American Diner;Bar-Cafeteria;Avenida Miguel Angel Hernandez Martin;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.880952;28.650268
+B-38-5-0000615;Tati Coffee Bar;Bar-Cafeteria;Parque Llano Del Alferez;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913653;28.658196
+B-38-5-0000616;Cervecería Isla Verde;Bar-Cafeteria;El Jesús, 41;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.951356;28701.0
+B-38-5-0000617;Karaoke Metrópolis;Bar-Cafeteria;Edif. Centrocancajos, Nivel 2, Local 106-107,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759955;28.650673
+B-38-5-0000619;El Ayuntamiento;Bar-Cafeteria;C/ Fernández Taño, 11;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+B-38-5-0000620;Baco;Bar-Cafeteria;Callejón Angosto, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913076;28.654034
+B-38-5-0000621;"El Zaperoco Bar &Amp; Bistro";Bar-Cafeteria;Calle Alvarez De Abreu;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764904;28.682538
+B-38-5-0000622;Kiosco Plaza San Miguel;Bar-Cafeteria;Plaza Enrique Noguerales,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000623;La Estación;Bar-Cafeteria;Avda. Carlos Francisco Lorenzo Navarro, 62;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.907807;28.656444
+B-38-5-0000624;Tasca El Castillo;Bar-Cafeteria;El Castillo, 12;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.95338;28.79282
+B-38-5-0000625;Tapas & Trekking;Bar-Cafeteria;Sagrado Corazón, 4;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.878964;28.651657
+B-38-5-0000626;Rami Surf;Bar-Cafeteria;Calle Del Medio;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912137;28.658816
+B-38-5-0000627;Tasca Digna Mari;Bar-Cafeteria;Tanausú, 25;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.919936;28.658342
+B-38-5-0000628;Kiosco Urpal;Bar-Cafeteria;Calle Atlantico;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.766794;28.663308
+B-38-5-0000629;Centro Cancajos;Bar-Cafeteria;Los Cancajos, 37;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.758933;28.646184
+B-38-5-0000630;La Burguesia;Bar-Cafeteria;Calle Real;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913633;28.658773
+B-38-5-0000631;Europlátano;Bar-Cafeteria;Los Palomares, 118;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914164;28.645625
+B-38-5-0000632;Kiosco Eliseo;Bar-Cafeteria;El Puente,  (Plaza José Mata);La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.775169;28.68797
+B-38-5-0000633;La Taberna Del Traka;Bar-Cafeteria;San Antonio , 4;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.845125;28.494334
+B-38-5-0000634;Casa De Buceo;Bar-Cafeteria;Conrado Hernández, 4;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912931;28.659877
+B-38-5-0000635;Pcan Las Manchas;Bar-Cafeteria;San Nicolás,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.881036;28.599222
+B-38-5-0000636;Stage 3;Bar-Cafeteria;Castillete, 19;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76037;28.687999
+B-38-5-0000637;Kiosco Plaza De Montserrat;Bar-Cafeteria;De Montserrat,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;0.0;0.0
+B-38-5-0000638;La Marmota;Bar-Cafeteria;De La Constitución, 1;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933601;28.643833
+B-38-5-0000639;La Esquinita Del Gofre;Bar-Cafeteria;Antonio Pino Pérez, 5;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.881456;28.651576
+B-38-5-0000640;Heladería Don Cucurucho;Bar-Cafeteria;Marítima, 7;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76531;28.681759
+B-38-5-0000641;Utopia Cafe;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765113;28.681969
+B-38-5-0000642;Tasca En Vivo;Bar-Cafeteria;Residencial-Turístico Lago Azul, Local 8;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+B-38-5-0000643;La Tropicana;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91023;28.58602
+B-38-5-0000644;Ocean Drive;Bar-Cafeteria;Playa De Puerto Naos - Kiosco Nº 2,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000645;Love In The Beach;Bar-Cafeteria;Playa De Puerto Naos - Kiosco Nº 1,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000646;La Rockola;Bar-Cafeteria;Guayafanta, 13;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.920004;28.657531
+B-38-5-0000647;Cervecería La Sureña;Bar-Cafeteria;Edif. La Marina - Puerto De Santa Cruz De La Palma, Local 13;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765243;28.675633
+B-38-5-0000648;Ice & Coffee;Bar-Cafeteria;Venezuela, 19;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912357;28.658318
+B-38-5-0000649;Taberna Rincón Del Enano;Bar-Cafeteria;San Telmo, 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766612;28.682304
+B-38-5-0000650;Carlos Tasca;Bar-Cafeteria;Anselmo Pérez De Brito, 9;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764135;28.684054
+B-38-5-0000651;El Paso;Bar-Cafeteria;Calle Juan Fernandez;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.880156;28.653137
+B-38-5-0000652;El Llanito;Bar-Cafeteria;El Llanito, 34;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.789347;28.653948
+B-38-5-0000653;Xacobeo;Bar-Cafeteria;Enrique Mederos, 48;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.918036;28.660077
+B-38-5-0000654;Mclocomix;Bar-Cafeteria;Enrique Mederos, 42;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.917547;28.660031
+B-38-5-0000655;El Rinconcito De La Grama;Bar-Cafeteria;Parque Empresarial El Molino, 8 Bajo (La Grama);La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.778917;28.661521
+B-38-5-0000666;Umami - The Ham S Corner;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76252;28.68505
+B-38-5-0000667;Kiosco Aldea Del Charco;Bar-Cafeteria;Mirador Del Charco, Km. 32;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.865749;28.535065
+B-38-5-0000668;La Buhardilla Ii;Bar-Cafeteria;La Explanada, 3;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.94546;28.65155
+B-38-5-0000669;Iris;Bar-Cafeteria;Castillo Olivares, 15;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.916983;28.658268
+B-38-5-0000670;El Café De Don Manuel;Bar-Cafeteria;Anselmo Pérez De Brito, 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764477;28.683444
+B-38-5-0000671;Spar Express Marina La Palma;Bar-Cafeteria;Puerto Deportivo Marina La Palma, Locales 9 Y 10,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000673;La Octava Isla;Bar-Cafeteria;Calle Maribel Nazco;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913341;28.656954
+B-38-5-0000674;Café Venezia;Bar-Cafeteria;De La Constitución, 19 - Local A,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933311;28.643067
+B-38-5-0000675;Kiosco Minigolf La Palma;Bar-Cafeteria;Carretera General Puerto Naos;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.905935;28.613941
+B-38-5-0000676;Frida;Bar-Cafeteria;Calle Del Medio;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910919;28.658827
+B-38-5-0000677;Centro Cultural Las Indias;Bar-Cafeteria;General Las Indias , 59;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.865441;28.504482
+B-38-5-0000678;Casa Tey;Bar-Cafeteria;Álvarez De Abreu, 57;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765146;28.682143
+B-38-5-0000679;Kiosco Pescadores;Bar-Cafeteria;Las Nieves,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761905;28.686171
+B-38-5-0000680;El Cenachero;Bar-Cafeteria;Área Recreativa De Puntalarga,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.867978;28.484178
+B-38-5-0000681;Centro De Visitantes Volcán De San Antonio;Bar-Cafeteria;Centro De Visitantes Volcán De San Antonio,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.848041;28.48709
+B-38-5-0000682;Winnit El Dorado;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764986;28.684474
+B-38-5-0000683;La Tasquita De Jose;Bar-Cafeteria;Real, 17;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911216;28.658508
+B-38-5-0000684;Tabu Montaditos;Bar-Cafeteria;Calle Guayrin;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.786605;28.664024
+B-38-5-0000685;Granier;Bar-Cafeteria;O'Daly, 21;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765412;28.682589
+B-38-5-0000686;Cayeya Café;Bar-Cafeteria;Juana Tabares, 3;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.90914;28.58562
+B-38-5-0000687;La Cantina;Bar-Cafeteria;Tanausú, 26;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91854;28.65868
+B-38-5-0000688;El Rincón Musical;Bar-Cafeteria;Enrique Mederos, 29;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91747;28.6598
+B-38-5-0000690;Veg Art Diet;Bar-Cafeteria;Hotel Las Olas, Loc. C3;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.75906;28.644362
+B-38-5-0000691;Aeonium;Bar-Cafeteria;Rafael Alberti, 13;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.77638;28.67809
+B-38-5-0000692;Plaza;Bar-Cafeteria;Baltasar Martín, 3;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.944511;28.830605
+B-38-5-0000693;Trocadero Plaza;Bar-Cafeteria;Las Adelfas, 8;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910782;28.656717
+B-38-5-0000694;Tajurgo;Bar-Cafeteria;El Puente, 21;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764812;28.684264
+B-38-5-0000695;Winnit Los Álamos;Bar-Cafeteria;Esteban Pérez González, 22;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787778;28.667222
+B-38-5-0000696;El Escondite;Bar-Cafeteria;Carlos Francisco Lorenzo Navarro, 44;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912209;28.658259
+B-38-5-0000697;Multiservicios Adrinere;Bar-Cafeteria;Puerto De Tazacorte,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.943144;28.643457
+B-38-5-0000698;La Esquina;Bar-Cafeteria;Caballos Fufos, 32;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933831;28.641003
+B-38-5-0000699;Buena Nueva Pizzería;Bar-Cafeteria;Carlos Francisco Lorenzo Navarro, 22;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91469;28.65781
+B-38-5-0000700;Delicias Tasca;Bar-Cafeteria;Calle Real;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910763;28.658566
+B-38-5-0000701;La Sirena Beer & Wine House;Bar-Cafeteria;Marítima , 29;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763829;28.683443
+B-38-5-0000702;Coffee Shop;Bar-Cafeteria;Las Adelfas , 2 Esquina Calle Convento;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911062;28.657058
+B-38-5-0000703;El Velachero;Bar-Cafeteria;Calle Antonio Rodriguez Lopez;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76562;28.688405
+B-38-5-0000704;El Capricho;Bar-Cafeteria;Doctor Fleming, 16;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914318;28.658409
+B-38-5-0000705;Kiosco Reme;Bar-Cafeteria;Manuela Sotomayor, 3 El Remo;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.888944;28.552886
+B-38-5-0000706;Mi Bocata;Bar-Cafeteria;Venezuela, 24;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912211;28.658288
+B-38-5-0000707;La Tasquita;Bar-Cafeteria;El Puente, 14 Mercado Municipal De Abastos, Lonja 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762202;28.685482
+B-38-5-0000708;Mas Que Cafe;Bar-Cafeteria;Calle Espinel;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.786564;28.6652
+B-38-5-0000709;Taberna Barbanegra;Bar-Cafeteria;Álvarez De Abreu, 39;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764769;28.682696
+B-38-5-0000711;Kiosco 7;Bar-Cafeteria;Playa De El Remo,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.888468;28.551981
+B-38-5-0000712;El Carajo;Bar-Cafeteria;Edificio La Marina, Local 19,  Puerto De Santa Cruz De La Palma;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+B-38-5-0000713;Pasarela Terraza;Bar-Cafeteria;Los Pulidos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.916743;28.660921
+B-38-5-0000714;Smile Bistro Bar;Bar-Cafeteria;Calvo Sotelo, 16 A;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911333;28.658825
+B-38-5-0000715;El Encuentro En La Calle Real;Bar-Cafeteria;Calle Odaly;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765412;28.682589
+B-38-5-0000716;Pan Y +;Bar-Cafeteria;El Puente, 35;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766853;28.685278
+B-38-5-0000717;Arepera El Encuentro En La Avenida;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764556;28.682679
+B-38-5-0000718;Maday;Bar-Cafeteria;Calle La Corvina;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.758292;28.645969
+B-38-5-0000719;Pastelería Kikka;Bar-Cafeteria;Pedro Miguel Hernández Camacho, 88;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909949;28.650272
+B-38-5-0000720;Boutique Del Pan El Puente;Bar-Cafeteria;El Puente, 19;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764845;28.684251
+B-38-5-0000721;Osa Menor;Bar-Cafeteria;Calle Alvarez De Abreu;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764904;28.682538
+B-38-5-0000722;Oceano;Bar-Cafeteria;Travesia Los Cancajos;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.754306;28.631995
+B-38-5-0000723;Plaza Chica;Bar-Cafeteria;Baltasar Martín, 1;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761795;28.685818
+B-38-5-0000724;La Tanqueta;Bar-Cafeteria;Cruz De La Montaña, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+B-38-5-0000725;La Ferretería, Deco & Art Tea Shop;Bar-Cafeteria;Pedro Pérez Díaz, 2;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933058;28.644462
+B-38-5-0000726;Ferret'S & Marten'S;Bar-Cafeteria;De España, 1;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+B-38-5-0000727;Calypso;Bar-Cafeteria;Marítima, 35;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76332;28.684173
+B-38-5-0000728;Budare;Bar-Cafeteria;Calle La Constitucion;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.7863;28.6631
+B-38-5-0000729;Arepera Las Nieves;Bar-Cafeteria;Carias, 6;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762318;28.688537
+B-38-5-0000730;Holiday Time;Bar-Cafeteria;Álvarez De Abreu, 13;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763517;28.683716
+B-38-5-0000731;Tasca El Bejeque;Bar-Cafeteria;Príncipe Felipe, 40;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.773175;28.801851
+B-38-5-0000732;Terraza Aguaviva;Bar-Cafeteria;Zona De Servicio Del Puerto De Santa Cruz De La Palma,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.770876;28.677694
+B-38-5-0000733;Casablanca El Puente;Bar-Cafeteria;El Puente, 39;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.767806;28.685633
+B-38-5-0000734;Caños De Fuego;Bar-Cafeteria;Todoque-Las Manchas,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.899607;28.611784
+B-38-5-0000735;Heladería Roma;Bar-Cafeteria;Subsuelo Del Parque Antonio Herrera,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.774072;28.80417
+BC-38-5-0000001;Gastrobar El Tendal;Bar-Cafeteria;Carretera Lp-1, Los Galguitos;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;_U;-17.770812;28.78633
+BC-38-5-0000002;Crisanda;Bar-Cafeteria;Calle 30 De Mayo;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;-17.786876;28.664106
+BC-38-5-0000003;Gula;Bar-Cafeteria;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;-17.91023;28.58602
+BC-38-5-0000004;Kiosco Plaza Bujaz;Bar-Cafeteria;Calle Treinta De Mayo;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;-17.78693;28.663962
+BC-38-5-0000005;Sociedad Atlantida;Bar-Cafeteria;Calle Atlantida;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;-17.787136;28.662411
+BC-38-5-0000006;El Rincon De Carol;Bar-Cafeteria;Edificio Marina La Palma - Puerto De Santa Cruz De La Palma;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;_U;-17.765243;28.675633
+BC-38-5-0000007;Kiosco Malecon;Bar-Cafeteria;Playa De Santa Cruz De La Palma;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;_U;0.0;0.0
+BC-38-5-0000008;La Mocanera Dulce;Bar-Cafeteria;Travesia Los Cancajos;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;_U;-17.759687;28.644928
+BC-38-5-0000009;El Recuerdo;Bar-Cafeteria;Calle San Bartolome;La Palma;Santa Cruz De Tenerife;Puntallana;_U;_U;-17.75663;28.7671
+BC-38-5-0000010;La Martina;Bar-Cafeteria;Calle Teniente General Gutierrez Mellado;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;-17.912021;28.658475
+BC-38-5-0000011;Habana;Bar-Cafeteria;Calle Anselmo Perez De Brito;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;_U;-17.764232;28.683784
+BC-38-5-0000012;Ca Yeya Cafe;Bar-Cafeteria;Avenida La Constitucion;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;_U;-17.934517;28.641825
+BC-38-5-0000013;Banana Garden La Palma;Bar-Cafeteria;Calle Garachico;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;_U;-17.763519;28.684656
+BC-38-5-0000014;El Altillo Gastrobar;Bar-Cafeteria;C.C. Centrocancajos;La Palma;Santa Cruz De Tenerife;_U;_U;_U;0.0;0.0
+BC-38-5-0000015;Pasteleria Color De Rosa;Bar-Cafeteria;Calle Caballos Fufos;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;_U;-17.934361;28.64163
+BC-38-5-0000017;Pura Vida Los Cancajos;Bar-Cafeteria;Centro Comercial Cancajos;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;_U;-17.759839;28.651458
+BC-38-5-0000018;La Pergola;Bar-Cafeteria;Plaza De España;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;-17.912907;28.658946
+BC-38-5-0000019;La Marileria;Bar-Cafeteria;Calle Esteban Perez Gonzalez;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;-17.787257;28.665383
+BC-38-5-0000020;El Guanche;Bar-Cafeteria;Poligono Industrial El Molino;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;0.0;0.0
+BC-38-5-0000021;Autobar Chirifu;Bar-Cafeteria;Estacionamientos Del Estado Municipal De Futbol, Vista Alegre;La Palma;Santa Cruz De Tenerife;El Paso;_U;_U;-17.883693;28.648268
+BC-38-5-0000022;La Prosperidad;Bar-Cafeteria;Camino La Planta;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;_U;-17.944271;28.674038
+BC-38-5-0000023;Terraza Aguaviva;Bar-Cafeteria;Calle Las Norias;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;_U;0.0;0.0
+BC-38-5-0000024;Kiosko Churreria Mercadillo Villa De Mazo;Bar-Cafeteria;Calle Doctor Morera Bravo;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;_U;0.0;0.0
+BC-38-5-0000025;Mercadillo Puntallana;Bar-Cafeteria;Calle El Lomo;La Palma;Santa Cruz De Tenerife;Puntallana;_U;_U;0.0;0.0
+BC-38-5-0000026;Mi Pecado;Bar-Cafeteria;Calle Felix Duarte Perez;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;_U;0.0;0.0
+BC-38-5-0000027;Eden;Bar-Cafeteria;Carretera Puerto Naos;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;0.0;0.0
+BC-38-5-0000028;De Buen Rollo;Bar-Cafeteria;Calle La Constitucion;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;0.0;0.0
+BC-38-5-0000029;La Placita De San Andres;Bar-Cafeteria;La Plaza;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;_U;0.0;0.0
+BC-38-5-0000030;El Cafe De Flor;Bar-Cafeteria;Calle Anselmo Perez De Brito;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;_U;0.0;0.0
+BC-38-5-0000031;Sweet N´Saltyla Palma;Bar-Cafeteria;Avenida Enrique Mederos;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;0.0;0.0
+C-38-5-0000003;Plaza;Bar-Cafeteria;Plaza Brujas, S.N.;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+C-38-5-0000011;Ansona;Bar-Cafeteria;Mauricio Duque Camacho Puerto Naos, S.N.;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91018;28.587251
+C-38-5-0000012;Cabako;Bar-Cafeteria;Carretera General Del Norte, S.N.;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.772163;28.808862
+C-38-5-0000013;Nuestra Sra. De Las Nieves;Bar-Cafeteria;Hospital Nuestra Sra. De Las Nieves, S.N.;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.782201;28.69432
+C-38-5-0000015;El Descanso;Bar-Cafeteria;El Pilar, 22;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765903;28.687839
+C-38-5-0000018;Barlovento;Bar-Cafeteria;Apartamentos Costa Salinas. Los Cascajos, S.N.;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.758159;28.648811
+C-38-5-0000019;Cosmos;Bar-Cafeteria;Avda Maritima, 70;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765329;28.681796
+C-38-5-0000020;Rotonda;Bar-Cafeteria;Carretera General, 33;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.772618;28.811094
+C-38-5-0000021;Capri;Bar-Cafeteria;Francisca De Gazmira, 26;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914568;28.655601
+C-38-5-0000023;Castillete;Bar-Cafeteria;Avda Maritima, 75;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.759874;28.687391
+C-38-5-0000026;Piscolabis;Bar-Cafeteria;Juana Tabares. Puerto Naos, 3;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914673;28.658824
+C-38-5-0000027;Pizzeria Don Jorge;Bar-Cafeteria;Ramón Y Cajal, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909127;28.658597
+C-38-5-0000028;Bumerang;Bar-Cafeteria;Carretera Puerto Naos, 127;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914246;28.649029
+C-38-5-0000029;Solo Pizza;Bar-Cafeteria;El Pilar, 10 Bajo;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.767069;28.687133
+C-38-5-0000030;Arepera Yajaira;Bar-Cafeteria;Carretera General Los Canarios, 68;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.843465;28.494028
+C-38-5-0000031;La Cabaña;Bar-Cafeteria;Beatos Mártires De Tazacorte, 5 A;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.946697;28.651831
+C-38-5-0000032;Arepera Carupano;Bar-Cafeteria;Carretera Puerto Naos, 281;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908401;28.634648
+C-38-5-0000033;Fresa Y Chocolate;Bar-Cafeteria;Avda Maritima, 25;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764165;28.683067
+C-38-5-0000035;La Pasión;Bar-Cafeteria;Treinta De Mayo, San Pedro, 1;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.786693;28.665735
+C-38-5-0000037;El Encuentro;Bar-Cafeteria;Pérez De Brito, 87;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764556;28.682679
+C-38-5-0000038;Mahán Art Café;Bar-Cafeteria;Casco Urbano, 13 Local Derecha;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.802595;28.829751
+C-38-5-0000044;Dropalma, S.L.U;Bar-Cafeteria;"Parque Empresarial  "" El Molino"", S/N";La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;0.0;0.0
+C-38-5-0000045;Dropalma;Bar-Cafeteria;Avda. José Antonio , 1;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.88039;28.6522
+C-38-5-0000047; Campoamor;Bar-Cafeteria;Convento , 68;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.90743;28.657416
+C-38-5-0000048;Avenida ;Bar-Cafeteria;Aeropuerto  De La Palma ,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.755113;28.625881
+C-38-5-0000050;Las Brisas;Bar-Cafeteria;Lodero , 34;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.772006;28.615967
+C-38-5-0000052;El Sabrosito;Bar-Cafeteria;Avda. Enrique Mederos, 92;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.9225;28.660833
+C-38-5-0000054;Mampi;Bar-Cafeteria;Teobaldo Power, 79;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.921922;28.660428
+C-38-5-0000055;Pcan ;Bar-Cafeteria;General Lp1, Km. 27,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.83518;28.500742
+C-38-5-0000056;Vitamina;Bar-Cafeteria;Real, 29;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910494;28.658529
+R-38-5-0000006;Melo;Restaurante;Alvarez De Abreu, 20;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763356;28.684461
+R-38-5-0000013;Pepper Mexican Food;Restaurante;C/. La Pasión, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.914888;28.658541
+R-38-5-0000019;Aeropuerto;Restaurante;Aaeropuerto De Mazo,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.755113;28.625881
+R-38-5-0000023;Los Almendros;Restaurante;Velhoco, 25;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.783217;28.691445
+R-38-5-0000025;San Petronio;Restaurante;Camino Pino Santiago, 48;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.895816;28.661119
+R-38-5-0000026;La Pradera;Restaurante;La Laguna, 28;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.81213;28.81678
+R-38-5-0000028;Brasero Mar Y Tierra;Restaurante;Méndez Cabezola, 22;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761085;28.686992
+R-38-5-0000032;El Pulpo;Restaurante;Los Cascajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.761067;28.652879
+R-38-5-0000034;Parrilla Casa Pancho;Restaurante;La Polvacera;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.770733;28.634012
+R-38-5-0000035;Los Braseros;Restaurante;Los Álamos, 51;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.767404;28.68218
+R-38-5-0000036;La Cascada;Restaurante;Carretera General El Paso, 82;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.862265;28.651252
+R-38-5-0000039;Triana;Restaurante;El Pueblo , 26;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+R-38-5-0000040;La Fontana;Restaurante;Edif. Las Adelfas - Los Cascajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+R-38-5-0000047;La Placeta;Restaurante;Placeta De Borrero;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76318;28.684714
+R-38-5-0000048;Parrilla Junonia;Restaurante;Los Canarios, 41;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;0.0;0.0
+R-38-5-0000049;La Palma Romántica;Restaurante;Topo De Las Llanadas,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+R-38-5-0000050;Tamanca;Restaurante;Montaña Tamanca,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.87983;28.596615
+R-38-5-0000051;Las Tres Chimeneas;Restaurante;Buena Vista De Arriba, 82;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.788797;28.671591
+R-38-5-0000052;El Chino;Restaurante;Pedro Poggio, 7;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765433;28.684163
+R-38-5-0000057;Dagoromi;Restaurante;C/ Fátima, 21;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.872736;28.649444
+R-38-5-0000058;Chipi-Chipi;Restaurante;Juan Mayor, 42;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.786562;28.681848
+R-38-5-0000059;Briesta, Kiosco;Restaurante;Briesta,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.934594;28.781326
+R-38-5-0000060;Casa Goyo;Restaurante;Carretera Lodero;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.758706;28.616267
+R-38-5-0000061;Parrilla Tinizara;Restaurante;Tinizara, 235;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;0.0;0.0
+R-38-5-0000062;Mesón Del Mar;Restaurante;Puerto Espíndola,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.763039;28.809695
+R-38-5-0000063;San Andrés;Restaurante;Plaza La Iglesia,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.760553;28.799388
+R-38-5-0000064;Asadero  Rosan ;Restaurante;El Morro, 65;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.772089;28.81014
+R-38-5-0000065;Punta Larga;Restaurante;Los Quemados,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.843157;28.493958
+R-38-5-0000066;El Canguro;Restaurante;Todoque, 511;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.906378;28.610825
+R-38-5-0000067;Jabalí;Restaurante;El Pueblo,;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.954215;28.713428
+R-38-5-0000068;Salta Si Puedes;Restaurante;Avda. Tanausú, 29;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38700;-17.92015;28.658348
+R-38-5-0000069;El Hidalgo;Restaurante;José Antonio, 13;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910524;28.657932
+R-38-5-0000070;Las Tricias;Restaurante;Lomo Los Barreros , 33;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.959632;28.779596
+R-38-5-0000072;Montecarlo;Restaurante;Puerto De Tazacorte,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.947899;28.651972
+R-38-5-0000074;Lago Azul;Restaurante;Urb. San Antonio Del Mar,  Loc. 3 Y 4;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.757622;28.645853
+R-38-5-0000075;Orinoco;Restaurante;Manuel Rodríguez Quintero,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909751;28.586047
+R-38-5-0000076;Mesón La Grama;Restaurante;La Grama - Km. 3, 5;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.777705;28.661287
+R-38-5-0000078;Playamont;Restaurante;Avenida Taburiente;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.945257;28.650369
+R-38-5-0000079;El Sombrero;Restaurante;Tajuya, 8;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.888926;28.635715
+R-38-5-0000081;Casa Pedro;Restaurante;Avda. Cruz Roja,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909146;28.586754
+R-38-5-0000084;Teneguia;Restaurante;Puerto De Tazacorte,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.947765;28.652019
+R-38-5-0000086;Libanes Al Yanubi;Restaurante;Urb. San Antonio Del Mar,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.76595;28.64445
+R-38-5-0000088;Las Goteras;Restaurante;Parque Recreativo De La Laguna,;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;0.0;0.0
+R-38-5-0000089;Brasilandia;Restaurante;Vizconde Del Buen Paso, 62;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.906288;28.656903
+R-38-5-0000090;Café Giardino;Restaurante;Tajuya, 2;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.889869;28.633706
+R-38-5-0000091;El Bailadero;Restaurante;Ctra. General Hoya Grande,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;0.0;0.0
+R-38-5-0000092;Calle Real 62;Restaurante;Real , 62;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909771;28.658453
+R-38-5-0000093;Avenida;Restaurante;Casatillete, 14;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+R-38-5-0000094;San Jorge;Restaurante;Hcda. San Jorge - Los Cascajos,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.761112;28.651625
+R-38-5-0000095;Irish Coffe;Restaurante;Lomo Blanco,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38778;-17.934013;28.640585
+R-38-5-0000101;Parrilla Las Nieves;Restaurante;Plaza De Las Nieves,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.781836;28.694394
+R-38-5-0000102;Asterio;Restaurante;Ctra. General La Galga,;La Palma;Santa Cruz De Tenerife;Puntallana;_U;38715;-17.764045;28.763784
+R-38-5-0000103;La Nao;Restaurante;Avda Marítima Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909614;28.58533
+R-38-5-0000105;Expreso Bus;Restaurante;Puerto De Tazacorte,;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38778;-17.94074;28.64761
+R-38-5-0000106;Marex;Restaurante;Carlos Francisco Lorenzo Navarro, 32;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913933;28.657468
+R-38-5-0000107;La Gaviota;Restaurante;Calle La Fajana;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.790219;28.842467
+R-38-5-0000108;Alameda;Restaurante;Dr. Pérez Camacho, 3;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.761515;28.687511
+R-38-5-0000109;Las Toscas;Restaurante;Ctra. General, 42;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.780061;28.605566
+R-38-5-0000111;El Candil;Restaurante;Tanausú, 22;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.881363;28.652724
+R-38-5-0000112;Casa Lucio;Restaurante;San Isidro,;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.796643;28.642599
+R-38-5-0000114;Estipalma;Restaurante;Ctra. De Bajamar,;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.768442;28.678925
+R-38-5-0000116;Casa Demetrio;Restaurante;Bosque De Los Tilos,;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.801981;28.790106
+R-38-5-0000120;Todoque;Restaurante;Camino El Mocanal;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759687;28.644928
+R-38-5-0000122;El Guachinche Palmero;Restaurante;Lomo Oscuro, 52;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.77325;28.58403
+R-38-5-0000123;Tasca Parrilla Casa Neno;Restaurante;El Pinar, 25 Cuatro Caminos;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.976598;28.774018
+R-38-5-0000124;El Saman Food Truck;Restaurante;Calle Felix Duarte Perez;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.774933;28.643696
+R-38-5-0000125;Los Roques 3;Restaurante;Cmno. El Tanque, 22;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.764669;28.776669
+R-38-5-0000126;Pizzería  Evangelina;Restaurante;Jedey, 19;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.87907;28.58827
+R-38-5-0000127;Los Argentinos;Restaurante;Calle Fernandez Taño;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911069;28.659359
+R-38-5-0000128;Pizzería La Fragata;Restaurante;C. C. Centro Cascajos, Local 224,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759955;28.650673
+R-38-5-0000129;Pino De La Virgen;Restaurante;Pino De La Virgen, 6;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;0.0;0.0
+R-38-5-0000130;Parrilla Tinguaro;Restaurante;Acaerina, 10;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.918522;28.658341
+R-38-5-0000132;Mami Tuna;Restaurante;Calvo Sotelo, 24;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910931;28.658827
+R-38-5-0000134;Nipe;Restaurante;Lodero, 22;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.775581;28.617164
+R-38-5-0000139;Tasca El Granero;Restaurante;Avda. Marítima Puerto Naos,;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909748;28.586333
+R-38-5-0000140;La Scala;Restaurante;Maximiliano Darias, 3;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910637;28.586913
+R-38-5-0000143;Chino Asia;Restaurante;Avenida Carlos Francisco Lorenzo Navarro;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911753;28.65657
+R-38-5-0000144;Roque Faro;Restaurante;Roque Faro;La Palma;Santa Cruz De Tenerife;Garafia;_U;38700;-17.87831;28.80312
+R-38-5-0000145;El Bernegal;Restaurante;Díaz Y Suárez,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.948135;28.827596
+R-38-5-0000146;Los Corales;Restaurante;Avda. Cruz Roja, 5;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38700;-17.909251;28.587105
+R-38-5-0000147;El Cantillo;Restaurante;El Cantillo,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.76372;28.6543
+R-38-5-0000148;Bodegón Enriclai;Restaurante;Dr. Santos Abreu, 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764017;28.684343
+R-38-5-0000149;Amberes;Restaurante;La Luna , 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38700;-17.911638;28.658587
+R-38-5-0000150;Llanovid;Restaurante;Los Canarios,;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.847482;28.492538
+R-38-5-0000151;Candelaria;Restaurante;Plaza De La Candelaria - Mirca, 14;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+R-38-5-0000152;Tasca Parrilla La Era;Restaurante;Antonio Paz Paz, 4;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.84368;28.490995
+R-38-5-0000154;Las Costoneras;Restaurante;Ctra. Del Hoyo De Mazo, 36;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.770856;28.595439
+R-38-5-0000155;Frankonia;Restaurante;Avda. Marítima, 1b;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910456;28.586732
+R-38-5-0000156;San Blas;Restaurante;María Del Carmen Martínez Jerez, 4;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.778683;28.606504
+R-38-5-0000157;El Halcón;Restaurante;Carretera La Grama, 91;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.779815;28.668372
+R-38-5-0000158;La Rosa De Los V;Restaurante;El Pozo, 4;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38700;0.0;0.0
+R-38-5-0000160;Sadi;Restaurante;Calle La Corvina;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+R-38-5-0000161;Franchipani;Restaurante;Carretera General Empalme Dos Pinos;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+R-38-5-0000162;El Mirador Del Tiuna;Restaurante;C. C. Cascajos, 213-215;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+R-38-5-0000163;La Casona;Restaurante;Llano San Pedro, 6;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91496;28.6572
+R-38-5-0000164;Chino China Ming;Restaurante;Avenida Cruz Roja;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;Puerto Naos;38760;-17.909547;28.587632
+R-38-5-0000165;Parrilla El Dioni;Restaurante;Princesa Dacil, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.917789;28.658461
+R-38-5-0000166;Hong Kong;Restaurante;"Avda. El Puente; Edificio Quinta Verde, 41 Loc. 9";La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.76741;28.6855
+R-38-5-0000167;El Secadero;Restaurante;Morro Curdo, 90;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.89025;28.597062
+R-38-5-0000168;El Lagar;Restaurante;Centro Comercial Cancajos, S/N Loc. 304;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.7598;28.651004
+R-38-5-0000169;Tapería Altamira;Restaurante;Todoque, 467;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;0.0;0.0
+R-38-5-0000170;Tiuna;Restaurante;C. C. Cascajos, 113-115;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.763251;28.656261
+R-38-5-0000171;Casa Del Mar;Restaurante;Avda. Bajamar, 14;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+R-38-5-0000172;Buen Sabor;Restaurante;Avda. El Puente, 35;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766333;28.685091
+R-38-5-0000173;Casa Del Mar;Restaurante;Avda. Emigrantes, 2;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.945191;28.651523
+R-38-5-0000174;Las Norias;Restaurante;Ctra. Puerto Naos, 20;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+R-38-5-0000175;Casa Gloria;Restaurante;Carretera La Laguna A Tazacorte;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911728;28.632033
+R-38-5-0000176;El Moral;Restaurante;El Tablado, S/N;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.878563;28.831234
+R-38-5-0000177;Plaza Chica By El Duende Del Fuego;Restaurante;Plaza Elias Santos Abreu;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.912679;28.659336
+R-38-5-0000178;La Lonja;Restaurante;Anselmo Pérez De Brito, 56;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762202;28.685482
+R-38-5-0000179;Carmen;Restaurante;Urb. Celta,;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.897853;28.648078
+R-38-5-0000180;Pizzería Il Forno;Restaurante;Avda. Cruz Roja, 9;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909137;28.586882
+R-38-5-0000181;La Mariposa;Restaurante;Las Norias, 1;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.909679;28.608283
+R-38-5-0000182;Taberna Del Puerto;Restaurante;Plaza Castilla;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.947272;28.651767
+R-38-5-0000183;El Mojito;Restaurante;Armas, Argual, 50;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.923679;28.659255
+R-38-5-0000184;Oveja Negra;Restaurante;Nueva, 16;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.934016;28.6419
+R-38-5-0000185;Casa Indiano'S;Restaurante;Avda  De Los Indianos , 2;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.768116;28.680134
+R-38-5-0000186;Royal  Burguer;Restaurante;Avda. El Puente, 33 Bajo;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.766166;28.684956
+R-38-5-0000187;Mangos;Restaurante;Avda. Cruz Roja , 3 Loc. C;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909451;28.587435
+R-38-5-0000188;Azul ;Restaurante;El Castillo , 13;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.953974;28.793534
+R-38-5-0000189;Arepera El Chinchorro;Restaurante;Avda. Tanausu, 23;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.918111;28.658561
+R-38-5-0000191;Due Torri;Restaurante;Fernández Taño, 56;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.909613;28.65971
+R-38-5-0000192;Canela Café;Restaurante;Avda. El Puente , 23;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765009;28.684534
+R-38-5-0000193;La Graja;Restaurante;Carretera Las Nieves;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.784351;28.678981
+R-38-5-0000194;La Roca;Restaurante;Avda. Marítima , 4;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91063;28.58655
+R-38-5-0000195;Hong Kong 8;Restaurante;Urba. San Antonio  Del Mar Ii, S/N Loc. 6;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+R-38-5-0000196;Ancora Ristorante;Restaurante;General , 26 Barranco De Las Piñas;La Palma;Santa Cruz De Tenerife;Puntagorda;_U;38789;-17.97582;28.765206
+R-38-5-0000197;Avenida;Restaurante;Urbanización   San Antonio  Del Mar (Apartamentos  La Caleta), S/N Loc. 3;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759519;28.646464
+R-38-5-0000198;Jardin China ;Restaurante;Teniente  General  González  Del Yerro , 10;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.913278;28.656819
+R-38-5-0000199;La Muralla;Restaurante;Carretera General  Lp1, S/N;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.963161;28.728216
+R-38-5-0000200;Hospital De La Palma;Restaurante;Buenavista (Hospital General De La Palma), S/N;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.790467;28.672669
+R-38-5-0000201;Piccolo ;Restaurante;Avda. Maritima , 53;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762369;28.685521
+R-38-5-0000202;Avenida;Restaurante;Avda. De Las Nieves , 10;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763503;28.688703
+R-38-5-0000203;Pizza Roma ;Restaurante;Avenida  Enrique Mederos , 88;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.922269;28.660694
+R-38-5-0000204;El Ingeniero;Restaurante;Camino El Reventón, 122;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.794324;28.672706
+R-38-5-0000205;Il Tramonto ;Restaurante;El Emigrante , 4;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;0.0;0.0
+R-38-5-0000206;La Ola;Restaurante;Urb. San Antonio Del Mar, Hotel-Aptos. Las Olas, S/N;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+R-38-5-0000208;Casa Osmunda;Restaurante;La Concepción, 2;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.781259;28.675003
+R-38-5-0000209;Bululu Fusion Restaurante Venezonalo;Restaurante;Calle Felix Duarte Perez;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.77527;28.644356
+R-38-5-0000210;La Esquina Del Sur ;Restaurante;Centro Comercial Cancajos,  Loc. 217-218;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;0.0;0.0
+R-38-5-0000211;La Caleta;Restaurante;Urb. San Antonio Del Mar, Loc. 10 Apartamentos La Caleta;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759325;28.64595
+R-38-5-0000212;Tasca Kenya;Restaurante;La Rosa, 49;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.863244;28.656138
+R-38-5-0000213;Rompecabos;Restaurante;El Melonar, 15;La Palma;Santa Cruz De Tenerife;San Andres Y Sauces;_U;38720;-17.762187;28.808528
+R-38-5-0000214;Tasca Alavasca;Restaurante;Urb. Oasis-San Antonio Del Mar, 4;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.760313;28.6469
+R-38-5-0000216;Aeroclub;Restaurante;Ctra General Aeropuerto, S/N;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.754147;28.631994
+R-38-5-0000217;La Abuela;Restaurante;General Tajuya, 49;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.888931;28.638319
+R-38-5-0000218;La Morena;Restaurante;Edificio La Marina;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+R-38-5-0000219;La Casa Del Volcán;Restaurante;Los Volcanes, 23;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.847295;28.488025
+R-38-5-0000221;El Embrujo;Restaurante;18 De Julio , 9;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.955546;28.710885
+R-38-5-0000222;El Geco Libero ;Restaurante;C/ Aridane, 6;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.91071;28.658786
+R-38-5-0000223;Insolito La Palma Scp;Restaurante;Urbanizacion Oasis San Antonio;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.76;28.64583
+R-38-5-0000224;La Pausa / Henry J. Beans;Restaurante;Aeropuerto De La Palma - La Bajita, S/N,;La Palma;Santa Cruz De Tenerife;Villa De Mazo;_U;38730;-17.755113;28.625881
+R-38-5-0000225;La Mata;Restaurante;Ctra. General La Mata,;La Palma;Santa Cruz De Tenerife;Garafia;_U;38787;-17.902637;28.804689
+R-38-5-0000226;Pizzería Dulce Y Salado;Restaurante;Ctra. General Puerto Naos , 234;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.908367;28.632108
+R-38-5-0000227;Bodeguita Del Italiano;Restaurante;Calle El Pozo;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.947068;28.651871
+R-38-5-0000228;El Sitio;Restaurante;Miguel De Unamuno, 11;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.934979;28.64335
+R-38-5-0000229;Palma Wok;Restaurante;Tanausú, 19;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;0.0;0.0
+R-38-5-0000230;"Avenida ""Casa Pipo""";Restaurante;Urb. San Antonio Del Mar Ii, 22;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759519;28.646464
+R-38-5-0000231;Playa Chica;Restaurante;Marítima, 2;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910736;28.586636
+R-38-5-0000233;Ali Döner Kebab;Restaurante;Islas Canarias, 36;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.880084;28.653394
+R-38-5-0000234;"Temático ""El Jardín De La Sal""";Restaurante;La Costa-El Faro, 5 Las Salinas;La Palma;Santa Cruz De Tenerife;Fuencaliente De La Palma;_U;38740;-17.842057;28.454378
+R-38-5-0000235;Mcdonald'S Marina La Palma;Restaurante;Bajamar, S/N,  Marina La Palma;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;0.0;0.0
+R-38-5-0000236;Casa Kiko;Restaurante;General Puerto Naos, 209;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.907296;28.640161
+R-38-5-0000237;La Fajana;Restaurante;La Fajana, 25;La Palma;Santa Cruz De Tenerife;Barlovento;_U;38726;-17.79115;28.8417
+R-38-5-0000238;El Casino;Restaurante;Calle Anselmo Perez De Brito;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.763865;28.684189
+R-38-5-0000240;Bodegón Los Álamos;Restaurante;De Los Álamos - Módulo A,;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787778;28.667222
+R-38-5-0000241;Pizzería Dulce Y Salado;Restaurante;Vista Alegre, 2;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.882499;28.651747
+R-38-5-0000242;El Rincón Del Pescador;Restaurante;Cruz Roja, 7;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.8946;28.62621
+R-38-5-0000243;La Gatera Gastrobar;Restaurante;Treinta De Mayo, 56;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;38710;-17.787576;28.663062
+R-38-5-0000244;El Coral;Restaurante;Avenida Bajamar;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.765243;28.675633
+R-38-5-0000245;Balcón Taburiente;Restaurante;Cantadores, 2;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.88126;28.65059
+R-38-5-0000246;Calle Del Medio 13;Restaurante;Calvo Sotelo, 13;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.911683;28.65901
+R-38-5-0000247;Los Olivos;Restaurante;Avenida Princesa Tinabana;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;38780;-17.95508;28.71179
+R-38-5-0000248;Las Piedras;Restaurante;General, 56;La Palma;Santa Cruz De Tenerife;El Paso;_U;38750;-17.852407;28.653271
+R-38-5-0000249;La Colonial;Restaurante;Calle Real;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38760;-17.910736;28.658515
+R-38-5-0000250;Gran Shanghái;Restaurante;Marítima, 22;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.764488;28.682748
+R-38-5-0000251;Re-Belle;Restaurante;De España, 1;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;38770;-17.933172;28.643913
+R-38-5-0000252;Mestizo;Restaurante;Avenida Maritima;La Palma;Santa Cruz De Tenerife;Santa Cruz De La Palma;_U;38700;-17.762137;28.685536
+R-38-5-0000253;Dall'Italiano;Restaurante;De Venezuela, 10 Centro Comercial Trocadero, Planta 3º - Local 3;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;38768;0.0;0.0
+R-38-5-0000617;Karaoke Metrópolis;Restaurante;Edif. Centrocancajos, Nivel 2, Local 106-107,;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;38712;-17.759955;28.650673
+R-38-5-0000618;Parrilla Martin;Restaurante;Calle La Rivera;La Palma;Santa Cruz De Tenerife;Puntallana;_U;_U;-17.748519;28.714728
+R-38-5-0000619;La Marina;Restaurante;Calle La Explanada;La Palma;Santa Cruz De Tenerife;Tazacorte;_U;_U;-17.947077;28.65172
+R-38-5-0000620;L Osteria Del Geco;Restaurante;Urbanizacion Lago Azul;La Palma;Santa Cruz De Tenerife;Breña Baja;_U;_U;-17.75748;28.64611
+R-38-5-0000621;La Cantina;Restaurante;Avenida Miguel Angel Hernandez Martin;La Palma;Santa Cruz De Tenerife;_U;_U;_U;0.0;0.0
+R-38-5-0000622;Musaraña - Espacio Gastronomico Y Creativo;Restaurante;La Cuesta;La Palma;Santa Cruz De Tenerife;Breña Alta;_U;_U;-17.77833;28.682444
+R-38-5-0000623;Arepera El Jable;Restaurante;Camino Los Pulidos;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;-17.917316;28.660569
+R-38-5-0000624;Tasca Espetos Y Cañas;Restaurante;Avenida Islas Canarias;La Palma;Santa Cruz De Tenerife;El Paso;_U;_U;-17.880084;28.653484
+R-38-5-0000625;Burger King;Restaurante;Calle Ramon Pol;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;0.0;0.0
+R-38-5-0000626;Pizzeria Don Jorge Espj;Restaurante;Calle Calvario;La Palma;Santa Cruz De Tenerife;Los Llanos De Aridane;_U;_U;0.0;0.0
+R-38-5-0000627;Pizzeria La Punta;Restaurante;Calle Virgen De Fatima;La Palma;Santa Cruz De Tenerife;Tijarafe;_U;_U;0.0;0.0

@@ -1,0 +1,61 @@
+municipio,nombre,tipo,url_maps
+ADEJE,PUEBLO TORVISCAS,Apartamento,https://www.google.com/maps/search/PUEBLO%20TORVISCAS%20ADEJE%20Tenerife
+ADEJE,ROYAL GARDEN RIVER,Hotel,https://www.google.com/maps/search/ROYAL%20GARDEN%20RIVER%20ADEJE%20Tenerife
+ARAFO,CASA DEL CURA VIEJO,Casa Rural,https://www.google.com/maps/search/CASA%20DEL%20CURA%20VIEJO%20ARAFO%20Tenerife
+ARAFO,LO DE CARTA,Casa Rural,https://www.google.com/maps/search/LO%20DE%20CARTA%20ARAFO%20Tenerife
+ARICO,"VIÑITA, LA",Casa Emblematica,https://www.google.com/maps/search/VI%C3%91ITA%2C%20LA%20ARICO%20Tenerife
+ARICO,VIÑA VIEJA,Hotel,https://www.google.com/maps/search/VI%C3%91A%20VIEJA%20ARICO%20Tenerife
+ARONA,DON JOSE,Apartamento,https://www.google.com/maps/search/DON%20JOSE%20ARONA%20Tenerife
+ARONA,MARYLANZA SUITES & SPA,Hotel,https://www.google.com/maps/search/MARYLANZA%20SUITES%20%26%20SPA%20ARONA%20Tenerife
+BUENAVISTA DEL NORTE,CASA QUEMADA,Casa Rural,https://www.google.com/maps/search/CASA%20QUEMADA%20BUENAVISTA%20DEL%20NORTE%20Tenerife
+BUENAVISTA DEL NORTE,MELIA HACIENDA DEL CONDE,Hotel,https://www.google.com/maps/search/MELIA%20HACIENDA%20DEL%20CONDE%20BUENAVISTA%20DEL%20NORTE%20Tenerife
+CANDELARIA,CASA MARIA,Apartamento,https://www.google.com/maps/search/CASA%20MARIA%20CANDELARIA%20Tenerife
+CANDELARIA,CATALONIA PUNTA DEL REY,Hotel,https://www.google.com/maps/search/CATALONIA%20PUNTA%20DEL%20REY%20CANDELARIA%20Tenerife
+EL ROSARIO,CAÑADAS,Hotel,https://www.google.com/maps/search/CA%C3%91ADAS%20EL%20ROSARIO%20Tenerife
+EL ROSARIO,OHANA,Hotel,https://www.google.com/maps/search/OHANA%20EL%20ROSARIO%20Tenerife
+EL SAUZAL,"RIQUELAS, LAS",Casa Rural,https://www.google.com/maps/search/RIQUELAS%2C%20LAS%20EL%20SAUZAL%20Tenerife
+EL SAUZAL,HACIENDA SAN JOSE,Hotel,https://www.google.com/maps/search/HACIENDA%20SAN%20JOSE%20EL%20SAUZAL%20Tenerife
+FASNIA,CALIBORNA,Casa Emblematica,https://www.google.com/maps/search/CALIBORNA%20FASNIA%20Tenerife
+FASNIA,"SOMBRERA, LA",Casa Rural,https://www.google.com/maps/search/SOMBRERA%2C%20LA%20FASNIA%20Tenerife
+GARACHICO,SAN ROQUE,Hotel,https://www.google.com/maps/search/SAN%20ROQUE%20GARACHICO%20Tenerife
+GARACHICO,GARA,Hotel,https://www.google.com/maps/search/GARA%20GARACHICO%20Tenerife
+GRANADILLA DE ABONA,MIRAMAR-MARRERO,Apartamento,https://www.google.com/maps/search/MIRAMAR-MARRERO%20GRANADILLA%20DE%20ABONA%20Tenerife
+GRANADILLA DE ABONA,PLAYA SUR TENERIFE ,Hotel,https://www.google.com/maps/search/PLAYA%20SUR%20TENERIFE%20%20GRANADILLA%20DE%20ABONA%20Tenerife
+GUIA DE ISORA,THE TERRACES OF ABAMA,Apartamento,https://www.google.com/maps/search/THE%20TERRACES%20OF%20ABAMA%20GUIA%20DE%20ISORA%20Tenerife
+GUIA DE ISORA,SHOLEO LODGES LOS GIGANTES,Hotel,https://www.google.com/maps/search/SHOLEO%20LODGES%20LOS%20GIGANTES%20GUIA%20DE%20ISORA%20Tenerife
+GÜIMAR,BUEN RETIRO,Hotel,https://www.google.com/maps/search/BUEN%20RETIRO%20G%C3%9CIMAR%20Tenerife
+GÜIMAR,FINCA SALAMANCA,Hotel,https://www.google.com/maps/search/FINCA%20SALAMANCA%20G%C3%9CIMAR%20Tenerife
+ICOD DE LOS VINOS,SAN AGUSTIN,Hotel,https://www.google.com/maps/search/SAN%20AGUSTIN%20ICOD%20DE%20LOS%20VINOS%20Tenerife
+ICOD DE LOS VINOS,SAN MARCOS,Hotel,https://www.google.com/maps/search/SAN%20MARCOS%20ICOD%20DE%20LOS%20VINOS%20Tenerife
+LA GUANCHA,CASA PACHELE,Casa Rural,https://www.google.com/maps/search/CASA%20PACHELE%20LA%20GUANCHA%20Tenerife
+LA LAGUNA,BELLAMAR,Apartamento,https://www.google.com/maps/search/BELLAMAR%20LA%20LAGUNA%20Tenerife
+LA LAGUNA,NEPTUNO,Hotel,https://www.google.com/maps/search/NEPTUNO%20LA%20LAGUNA%20Tenerife
+LA MATANZA DE ACENTEJO,HOSPITAL VIEJO U HOSPICIO,Casa Rural,https://www.google.com/maps/search/HOSPITAL%20VIEJO%20U%20HOSPICIO%20LA%20MATANZA%20DE%20ACENTEJO%20Tenerife
+LA MATANZA DE ACENTEJO,MADRESELVA,Casa Rural,https://www.google.com/maps/search/MADRESELVA%20LA%20MATANZA%20DE%20ACENTEJO%20Tenerife
+LA OROTAVA,FINCA EL RINCON,Apartamento,https://www.google.com/maps/search/FINCA%20EL%20RINCON%20LA%20OROTAVA%20Tenerife
+LA OROTAVA,ALHAMBRA,Hotel,https://www.google.com/maps/search/ALHAMBRA%20LA%20OROTAVA%20Tenerife
+LA VICTORIA DE ACENTEJO,"HELIOTROPOS, LOS",Casa Rural,https://www.google.com/maps/search/HELIOTROPOS%2C%20LOS%20LA%20VICTORIA%20DE%20ACENTEJO%20Tenerife
+LOS REALEJOS,PLAYA DE LOS ROQUES,Apartamento,https://www.google.com/maps/search/PLAYA%20DE%20LOS%20ROQUES%20LOS%20REALEJOS%20Tenerife
+LOS REALEJOS,VILLA MONTEMAR,Hotel,https://www.google.com/maps/search/VILLA%20MONTEMAR%20LOS%20REALEJOS%20Tenerife
+LOS SILOS,LUZ DEL MAR,Hotel,https://www.google.com/maps/search/LUZ%20DEL%20MAR%20LOS%20SILOS%20Tenerife
+LOS SILOS,FINCA LA HACIENDA,Hotel,https://www.google.com/maps/search/FINCA%20LA%20HACIENDA%20LOS%20SILOS%20Tenerife
+PUERTO DE LA CRUZ,CLUB AMBASSADOR-PARQUE FARRAIS,Apartamento,https://www.google.com/maps/search/CLUB%20AMBASSADOR-PARQUE%20FARRAIS%20PUERTO%20DE%20LA%20CRUZ%20Tenerife
+PUERTO DE LA CRUZ,BAHIA PRINCIPE SAN FELIPE,Hotel,https://www.google.com/maps/search/BAHIA%20PRINCIPE%20SAN%20FELIPE%20PUERTO%20DE%20LA%20CRUZ%20Tenerife
+SAN JUAN DE LA RAMBLA,EL CANTITO,Casa Emblematica,https://www.google.com/maps/search/EL%20CANTITO%20SAN%20JUAN%20DE%20LA%20RAMBLA%20Tenerife
+SAN JUAN DE LA RAMBLA,FINCA SAN JUAN,Hotel,https://www.google.com/maps/search/FINCA%20SAN%20JUAN%20SAN%20JUAN%20DE%20LA%20RAMBLA%20Tenerife
+SAN MIGUEL DE ABONA,11 HOLIDAY HOMES,Apartamento,https://www.google.com/maps/search/11%20HOLIDAY%20HOMES%20SAN%20MIGUEL%20DE%20ABONA%20Tenerife
+SAN MIGUEL DE ABONA,BAHIA PRINCIPE FANTASIA,Hotel,https://www.google.com/maps/search/BAHIA%20PRINCIPE%20FANTASIA%20SAN%20MIGUEL%20DE%20ABONA%20Tenerife
+SANTA CRUZ DE TENERIFE,EUROSTARS ATLÁNTIDA,Hotel,https://www.google.com/maps/search/EUROSTARS%20ATL%C3%81NTIDA%20SANTA%20CRUZ%20DE%20TENERIFE%20Tenerife
+SANTA CRUZ DE TENERIFE,ADONIS CAPITAL,Hotel,https://www.google.com/maps/search/ADONIS%20CAPITAL%20SANTA%20CRUZ%20DE%20TENERIFE%20Tenerife
+SANTIAGO DEL TEIDE,SUNFLOWER II,Apartamento,https://www.google.com/maps/search/SUNFLOWER%20II%20SANTIAGO%20DEL%20TEIDE%20Tenerife
+SANTIAGO DEL TEIDE,DRAGOS DEL SUR,Hotel,https://www.google.com/maps/search/DRAGOS%20DEL%20SUR%20SANTIAGO%20DEL%20TEIDE%20Tenerife
+Santa Ursula,Hotel Spa La Quinta Park Suites,Hotel,https://www.google.com/maps/search/Hotel%20Spa%20La%20Quinta%20Park%20Suites%20Santa%20Ursula%20Tenerife
+Santa Ursula,Boutique Hotel Mencey,Hotel,https://www.google.com/maps/search/Boutique%20Hotel%20Mencey%20Santa%20Ursula%20Tenerife
+TACORONTE,PARQUE MESA DEL MAR,Apartamento,https://www.google.com/maps/search/PARQUE%20MESA%20DEL%20MAR%20TACORONTE%20Tenerife
+TACORONTE,CASA CASILDA,Hotel,https://www.google.com/maps/search/CASA%20CASILDA%20TACORONTE%20Tenerife
+TANQUE,FINCA EL LANCE,Casa Emblematica,https://www.google.com/maps/search/FINCA%20EL%20LANCE%20TANQUE%20Tenerife
+TANQUE,CASERIO LOS PARTIDOS,Hotel,https://www.google.com/maps/search/CASERIO%20LOS%20PARTIDOS%20TANQUE%20Tenerife
+TEGUESTE,LA TRANQUILIDAD,Casa Emblematica,https://www.google.com/maps/search/LA%20TRANQUILIDAD%20TEGUESTE%20Tenerife
+TEGUESTE,DOÑA JUSTA,Hotel,https://www.google.com/maps/search/DO%C3%91A%20JUSTA%20TEGUESTE%20Tenerife
+VILAFLOR,VILLALBA,Hotel,https://www.google.com/maps/search/VILLALBA%20VILAFLOR%20Tenerife
+VILAFLOR,EL TEJAR & SPA,Hotel,https://www.google.com/maps/search/EL%20TEJAR%20%26%20SPA%20VILAFLOR%20Tenerife

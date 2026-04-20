@@ -1,0 +1,360 @@
+establecimiento_id;establecimiento_nombre_comercial;establecimiento_grupo;direccion;direccion_isla_nombre;direccion_provincia_nombre;direccion_municipio;direccion_localidad;direccion_codigo_postal;longitud;latitud
+B-38-6-0000001;Los Mocanes;Bar-Cafeteria;Bda.De Tamargada, 1;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.237354;28.183924
+B-38-6-0000005;Edén Libre;Bar-Cafeteria;La Puntilla,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33873;28.08898
+B-38-6-0000006;La Pista;Bar-Cafeteria;Ctra. Llano, 4;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+B-38-6-0000007;La Parada;Bar-Cafeteria;El Caidero,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33511;28.09519
+B-38-6-0000008;Ramos;Bar-Cafeteria;Arure,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.319511;28.134718
+B-38-6-0000009;Puerto;Bar-Cafeteria;El Hornillo,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.33257;28.08097
+B-38-6-0000012;Grafiano;Bar-Cafeteria;Lomo San Pedro,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.200028;28.150235
+B-38-6-0000014;La Candelaria;Bar-Cafeteria;Del Medio, 97;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.113284;28.094623
+B-38-6-0000015;El Molinito;Bar-Cafeteria;El Molinito,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109683;28.090405
+B-38-6-0000016;La Nasa;Bar-Cafeteria;Ruiz De Padrón, 6;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11081;28.090887
+B-38-6-0000018;Los Pescaditos;Bar-Cafeteria;República De Panama, 3;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111311;28.092742
+B-38-6-0000019;Piloto;Bar-Cafeteria;Sta. Catalina, S/N;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.183466;28.177791
+B-38-6-0000020;El Mantillo;Bar-Cafeteria;El Mantillo, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.194641;28.186468
+B-38-6-0000023;Auto Bar;Bar-Cafeteria;Republica De Chile, 3;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111103;28.09182
+B-38-6-0000024;El Chaparral;Bar-Cafeteria;Llano De La Villa, 135;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;0.0;0.0
+B-38-6-0000025;Las Jornadas;Bar-Cafeteria;La Playa, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.339158;28.088524
+B-38-6-0000026;Submarino;Bar-Cafeteria;Ctra.Gral, 181;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.193827;28.168951
+B-38-6-0000027;La Cacatua;Bar-Cafeteria;Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334639;28.083012
+B-38-6-0000029;Las Carabelas;Bar-Cafeteria;Plaza De La Constitución, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110134;28.09106
+B-38-6-0000032;Carlos;Bar-Cafeteria;El Caidero, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.334824;28.095298
+B-38-6-0000033;Plaza;Bar-Cafeteria;La Calera,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.33511;28.09519
+B-38-6-0000034;Clemente;Bar-Cafeteria;Ctra.Gral.La Alameda, 21;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;0.0;0.0
+B-38-6-0000037;Bar Restaurante La Chalana ;Bar-Cafeteria;Barrio De Colón;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;0.0;0.0
+B-38-6-0000039;El Pescador;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.334477;28.083114
+B-38-6-0000040;Vueltas;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333989;28.084499
+B-38-6-0000042;Luisa;Bar-Cafeteria;Plaza De La Alojera,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;0.0;0.0
+B-38-6-0000043;Callejeta;Bar-Cafeteria;Avda. De Colón,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.11269;28.09178
+B-38-6-0000044;Amparo Perdomo Mesa;Bar-Cafeteria;Alojera,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.2662;28.17913
+B-38-6-0000046;Bar Zumeria Genaro;Bar-Cafeteria;C/ Ruiz De Padron;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.111494;28.091769
+B-38-6-0000047;Paco;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333989;28.084499
+B-38-6-0000049;Navarro;Bar-Cafeteria;Chipude,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.28143;28.11116
+B-38-6-0000050;Yballa;Bar-Cafeteria;Queipo De Llano,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.265626;28.179893
+B-38-6-0000051;Gran Rey;Bar-Cafeteria;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.338859;28.089034
+B-38-6-0000052;La Candelaria;Bar-Cafeteria;Chipude,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.28143;28.11116
+B-38-6-0000055;Tito;Bar-Cafeteria;Chiipude,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;0.0;0.0
+B-38-6-0000056;El Cercado;Bar-Cafeteria;El Cercado,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.28635;28.12242
+B-38-6-0000060;Ossorio;Bar-Cafeteria;Pza. Alojera,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.33225;28.16486
+B-38-6-0000061;Nino;Bar-Cafeteria;Ctra. Del Hospital,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;0.0;0.0
+B-38-6-0000062;Guada;Bar-Cafeteria;El Retamal,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.31145;28.11658
+B-38-6-0000063;El Tarajal;Bar-Cafeteria;Bda.De Colón,Playa Santiago,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;0.0;0.0
+B-38-6-0000064;Amparo;Bar-Cafeteria;Las Hayas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.2922;28.12862
+B-38-6-0000065;Mi Causa ;Bar-Cafeteria;C/ Curato;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;0.0;0.0
+B-38-6-0000067;La Alegría;Bar-Cafeteria;La Alegría, 100;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.239525;28.06288
+B-38-6-0000071;Colón;Bar-Cafeteria;Avda. De Colón,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.110533;28.091409
+B-38-6-0000072;Lomo Del Balo;Bar-Cafeteria;Lomo El Balo, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38879;-17.308743;28.118198
+B-38-6-0000074;Bar Curva;Bar-Cafeteria;Orilla Del Llano;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.108159;28.092036
+B-38-6-0000077;La Terraza;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333989;28.084499
+B-38-6-0000080;Avenida;Bar-Cafeteria;Ctra. Gral,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38600;0.0;0.0
+B-38-6-0000081;Mostaza;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333989;28.084499
+B-38-6-0000082;Casa Gregorio;Bar-Cafeteria;Ctra. Gral.,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.19851;28.163138
+B-38-6-0000084;Bar Los Camioneros ;Bar-Cafeteria;C/ Apartaderos;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.27665;28.10657
+B-38-6-0000085;Los Amigos;Bar-Cafeteria;Avda.Guillermo Ascanio,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.266077;28.179546
+B-38-6-0000087;Irguan;Bar-Cafeteria;Ctra. General,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.198316;28.163797
+B-38-6-0000090;Elías;Bar-Cafeteria;Chipude,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.28143;28.11116
+B-38-6-0000092;Bar Don Tapeo;Bar-Cafeteria;Ruiz De Padrón, 2 Bajo;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110732;28.090762
+B-38-6-0000093;Tasca La Noria;Bar-Cafeteria;La Playa, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+B-38-6-0000095;Las Gaviotas;Bar-Cafeteria;Ctra.Gral Borbalán,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.335443;28.089065
+B-38-6-0000098;Quiosco Tarajal;Bar-Cafeteria;La Playa,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.26244;28.18902
+B-38-6-0000099;La Playa;Bar-Cafeteria;La Playa, S/N;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;0.0;0.0
+B-38-6-0000100;El Zoco;Bar-Cafeteria;Triana,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.266345;28.178976
+B-38-6-0000102;Gran Parada;Bar-Cafeteria;Ctra. La Playa,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;0.0;0.0
+B-38-6-0000103;Los Prismas;Bar-Cafeteria;Pya.Sta. Catalina, S/N;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;0.0;0.0
+B-38-6-0000104;La Torre;Bar-Cafeteria;Ruiz De Padrón, 17;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.111427;28.091421
+B-38-6-0000106;Salitre;Bar-Cafeteria;Avenida De Los Descubridores;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.110824;28.090522
+B-38-6-0000107;Club Del Mar;Bar-Cafeteria;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.342366;28.095389
+B-38-6-0000108;Tasca La Marea;Bar-Cafeteria;Antongil, S/N., N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38600;0.0;0.0
+B-38-6-0000111;La Galería;Bar-Cafeteria;La Calera,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.33511;28.09519
+B-38-6-0000112;Vueltas;Bar-Cafeteria;Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333442;28.082684
+B-38-6-0000113;Bar Cafetería Casa Creativa;Bar-Cafeteria;Carretera General De Hermigua 76 1;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;-17.190715;28.170628
+B-38-6-0000116;El Lamero;Bar-Cafeteria;Avda De Los Descubridores,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.11236;28.08864
+B-38-6-0000117;Tajaraste;Bar-Cafeteria;República De Chile, 7;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.111231;28.091756
+B-38-6-0000119;Estudiantes;Bar-Cafeteria;Cruz Chiquita,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.11474;28.08992
+B-38-6-0000120;Paso Alto;Bar-Cafeteria;La Cerca,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;-17.19735;28.1554
+B-38-6-0000121;Bodegón Las Rosas;Bar-Cafeteria;Las Rosas,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38600;-17.22201;28.18346
+B-38-6-0000122;Discoteca Fin Fan;Bar-Cafeteria;Virgen De Guadulupe,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.109785;28.090875
+B-38-6-0000124;La Mortera;Bar-Cafeteria;Lomo San Pedro,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;-17.200028;28.150235
+B-38-6-0000125;La Tasca;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333989;28.084499
+B-38-6-0000126;Cuba Libre;Bar-Cafeteria;Plaza De Las Américas,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109683;28.090405
+B-38-6-0000128;El Pejín;Bar-Cafeteria;Plaza De Las Américas, 12;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.11066;28.091482
+B-38-6-0000129;Bar Betermann;Bar-Cafeteria;Ctra. Gral.,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38600;-17.194475;28.186088
+B-38-6-0000132;Bar Hermigua;Bar-Cafeteria;Ctra. Gral, 11;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;-17.198385;28.16378
+B-38-6-0000133;Autobar Herrera;Bar-Cafeteria;Plaza De La Constitución,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38600;-17.26633;28.17937
+B-38-6-0000134;Tasca Paula;Bar-Cafeteria;Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333442;28.082684
+B-38-6-0000137;Kx;Bar-Cafeteria;Borbalán,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.334955;28.088905
+B-38-6-0000138;Jana¿S Bar;Bar-Cafeteria;La Playa, Edif.Normara, 15;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.342715;28.095759
+B-38-6-0000140;Taberna De Vueltas;Bar-Cafeteria;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.333989;28.084499
+B-38-6-0000141;Bar Cafeteria El Cruce;Bar-Cafeteria;Las Rosas Cruce Juego De Bolas;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38600;0.0;0.0
+B-38-6-0000142;Gekko;Bar-Cafeteria;La Playa, Edif. Normara,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.343148;28.096124
+B-38-6-0000143;Lila;Bar-Cafeteria;Ctra. Gral, 711;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38600;0.0;0.0
+B-38-6-0000145;Bodegón La Vizcaína;Bar-Cafeteria;La Vizcaína,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.309389;28.113905
+B-38-6-0000146;Bar Zumería Maracuya;Bar-Cafeteria;Avda. Marítima, 56;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.198399;28.027954
+B-38-6-0000147;Bar Rodriguez ;Bar-Cafeteria;El Estanquillo,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;-17.20408;28.15007
+B-38-6-0000148;Tasca Marinera Blue Marlin;Bar-Cafeteria;Pza. De La Constitución, 6;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.109807;28.091085
+B-38-6-0000149;La Canela En Comunidad;Bar-Cafeteria;Borbalán,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.334955;28.088905
+B-38-6-0000150;Bar Dulcería Hel. Mendoza;Bar-Cafeteria;Real Pza De Las Américas,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.110824;28.090522
+B-38-6-0000151;El Ambigu;Bar-Cafeteria;Plaza De Las Américas, 8;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;-17.109773;28.090747
+B-38-6-0000152;Los Amigos;Bar-Cafeteria;Las Barreras,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38600;-17.198278;28.150212
+B-38-6-0000154;Restaurante Lo Colorado;Bar-Cafeteria;Edif. Gomera Verde . La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.34316;28.095144
+B-38-6-0000155;Winni San Sebastian;Bar-Cafeteria;Plaza De Las Americas;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109683;28.090405
+B-38-6-0000156;Zumería Arepera La Camp;Bar-Cafeteria;Mercado Municipal, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110443;28.091197
+B-38-6-0000158;Zumería La Finca;Bar-Cafeteria;Ctra.La Calera A La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+B-38-6-0000159;Café- Bar Vehículo;Bar-Cafeteria;Vía Pública San Antonio Sur.,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38600;0.0;0.0
+B-38-6-0000160;Bar Lomo Del Riego;Bar-Cafeteria;Piedras Quebradas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.328183;28.103838
+B-38-6-0000163;El Bernegal;Bar-Cafeteria;Lomo Fragoso , 3;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.164067;28.117752
+B-38-6-0000165;Los Alisios;Bar-Cafeteria;Las Trincheras, S/N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;0.0;0.0
+B-38-6-0000166;Cofradía Ntra. Sra. Del Carmen;Bar-Cafeteria;Las Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333442;28.082684
+B-38-6-0000167;Kiosko Bar Centro De Salud;Bar-Cafeteria;Avda. Jose Aguiar Nº 17;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11919;28.09958
+B-38-6-0000168;Cafeteria-Tasca Los Chico`S;Bar-Cafeteria;Playa De Santiago, 3;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.196607;28.029435
+B-38-6-0000169;Bar Los Castaños;Bar-Cafeteria;Avda Marítima;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.19653;28.029075
+B-38-6-0000170;Kiosko Bar El Molino;Bar-Cafeteria;Parque Urbanización El Molino, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+B-38-6-0000171;Disco Pub Latino;Bar-Cafeteria;Avda. Marítima, 6;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.19833;28.027992
+B-38-6-0000172;Bar-Zumería Parque La Torre;Bar-Cafeteria;República De Chile, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.112961;28.091037
+B-38-6-0000173;Alf'S Garden;Bar-Cafeteria;La Playa, Edf. Normara, Local , 4;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.343148;28.096124
+B-38-6-0000174;La Goleta ;Bar-Cafeteria;Vueltas,   Edificio  Italia,  , 1;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333989;28.084499
+B-38-6-0000175;Transilvania;Bar-Cafeteria;Ctra. Playa Del Ingles, Edf. Casanova,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.34547;28.097108
+B-38-6-0000176;La Botellita;Bar-Cafeteria;Real, 12;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110623;28.091478
+B-38-6-0000177;El Rejon Playa, S.L.;Bar-Cafeteria;Santa Catalina, 5;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.184911;28.176301
+B-38-6-0000180;Bar Marejada;Bar-Cafeteria;Avda. Fred Olsen, La Marina Local , 7;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.10705;28.08951
+B-38-6-0000181;Cacao;Bar-Cafeteria;Avda. De Colon Edf, Tavia Local , 3;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.112783;28.091804
+B-38-6-0000182;Tasca Pastrana;Bar-Cafeteria;Barranco De Santiago, Pastrana, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38811;-17.194437;28.032764
+B-38-6-0000183;La Sacristia;Bar-Cafeteria;Del Medio, 87;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.112313;28.093653
+B-38-6-0000184;Bar Tomas ;Bar-Cafeteria;Santiago Apostol, Plaza Del Carmen, S/N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;0.0;0.0
+B-38-6-0000186;La Isla;Bar-Cafeteria;Fred Olsen, 2 Local 7;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109344;28.090167
+B-38-6-0000187;Bar Cafeteria El M Uelle;Bar-Cafeteria;Avda. Fred Olsen, Edf. La Marina Local , 1-2;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+B-38-6-0000188;Bar Bodegon Del Mar;Bar-Cafeteria;Avenida Maritima;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38800;-17.19637;28.029089
+B-38-6-0000189;Medina;Bar-Cafeteria;El Estanquillo, 60;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.203369;28.151436
+B-38-6-0000190;Bar Perdomo;Bar-Cafeteria;Barranco El Mono, S/N;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38800;-17.2662;28.17913
+B-38-6-0000193;Bar Beraca;Bar-Cafeteria;Ruiz De Padron, 103;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.114466;28.095311
+B-38-6-0000195;Bar Tasca Capitol;Bar-Cafeteria;General Hermigua , 195;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;0.0;0.0
+B-38-6-0000196;Arepera Beraca;Bar-Cafeteria;Ruiz De Padron , 84;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.114466;28.095311
+B-38-6-0000197;Tapas Et Mas ;Bar-Cafeteria;C/ Real;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110786;28.091474
+B-38-6-0000200;Enyesque;Bar-Cafeteria;Santiago Apostol, 14;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.196788;28.029579
+B-38-6-0000201;Kikismiki;Bar-Cafeteria;De La Constitucion, 12;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110439;28.091057
+B-38-6-0000202;El Surtidor;Bar-Cafeteria;General De Hermigua, , Km 22 Patronato;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.188724;28.172253
+B-38-6-0000205;Mi Caprichito Gomero;Bar-Cafeteria;General De Hermigua, , 44;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.194854;28.167805
+B-38-6-0000206;Bar Cafeteria La Chama;Bar-Cafeteria;Ctra General De Hermigua (El Curato 0);La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.19851;28.163138
+B-38-6-0000207;Bar Cafeteria Lelo;Bar-Cafeteria;De La Junta Edificio Guarapo , 08;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.19873;28.02979
+B-38-6-0000208;Cafeteria Dulceria Ibo Alfaro;Bar-Cafeteria;Ctra. General , 95;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.198251;28.158992
+B-38-6-0000209;Bar La Cerca ;Bar-Cafeteria;La Cerca, 2;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.19705;28.155414
+B-38-6-0000210;Pan De Vueltas;Bar-Cafeteria;El Llano, 23;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334347;28.085563
+B-38-6-0000211;Cafeteria Hospital;Bar-Cafeteria;Hospital Ntra. Sra. De Guadalupe,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+B-38-6-0000212;Bar San Juan;Bar-Cafeteria;Lugar Las Cabezadas (San Juan);La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.199806;28.158303
+B-38-6-0000213;Roque Iguala S.L.;Bar-Cafeteria;La Dama, S/N;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;0.0;0.0
+B-38-6-0000214;Bar Churreria La Explanada;Bar-Cafeteria;La Explanada,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.26406;28.17902
+B-38-6-0000215;Cafeteria Rochila;Bar-Cafeteria;Del Carmen Locales , 1, 2;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.196833;28.029194
+B-38-6-0000216;Mirador De Abrante;Bar-Cafeteria;Ctra. Genral S/N, La Palmita, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.201165;28.185976
+B-38-6-0000217;Tasca La Tajea;Bar-Cafeteria;General Valle Gran Rey, 262;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.326275;28.1057
+B-38-6-0000218;El Eden;Bar-Cafeteria;Calle Del Medio;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111149;28.092346
+B-38-6-0000219;Cafeteria Panaderia Gran Cafe;Bar-Cafeteria;La Palomera, El Llano,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334174;28.085024
+B-38-6-0000220;Tasca Las Cruces;Bar-Cafeteria;El Calvario, 1;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.195085;28.189629
+B-38-6-0000221;La Boutique Del Vino;Bar-Cafeteria;Vueltas Edificio Cantil Local, 3 Y 4;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333989;28.084499
+B-38-6-0000222;Tamahuche;Bar-Cafeteria;Colon, Edf. Baluarte, 0;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.113725;28.092651
+B-38-6-0000223;Recreativo Los Leones;Bar-Cafeteria;Ruiz De Padron, 114 Local Bajo;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.1141;28.095112
+B-38-6-0000224;Tasca Las Cruces 2;Bar-Cafeteria;Plaza De La Constitucion;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109855;28.09127
+B-38-6-0000225;La Casa De La Playa;Bar-Cafeteria;De La P'Laya-La Puntilla, 7;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.341473;28.094578
+B-38-6-0000226;Dulceria,Cafeteria,Bar La Machanga ;Bar-Cafeteria;Paseo Las Palmeras;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342861;28.095043
+B-38-6-0000227;Breads&Sweets;Bar-Cafeteria;La Torre , 2;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111427;28.091421
+B-38-6-0000228;Roger¿S Cafe;Bar-Cafeteria;Repoblica De Panama, 3;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111236;28.092758
+B-38-6-0000229;Kiosko La Vega ;Bar-Cafeteria;Fagundo , 0;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.23943;28.063727
+B-38-6-0000230;Bodeguita Del Medio;Bar-Cafeteria;Avda Maritima Charcon Del Conde;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.336534;28.085444
+B-38-6-0000231;Winnit Valle Gra  Rey;Bar-Cafeteria;La Noria. Edificio Plaza Mayor , 5;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.34282;28.09564
+B-38-6-0000232;Oso Cafe Vgr;Bar-Cafeteria;Baja Del Secreto, Loc. 5,6 Y 7, 5,6,7;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+BC-38-6-0000002;La Choza;Bar-Cafeteria;Calle La Pista;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.110808;28.092915
+BC-38-6-0000003;La Isla;Bar-Cafeteria;Avenida Fred. Olsen, Local 1-2;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.10852;28.08978
+BC-38-6-0000004;Donde Marcos;Bar-Cafeteria;C/ Republica De Chile;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.111336;28.091716
+BC-38-6-0000005;Taberna Iratxe;Bar-Cafeteria;Ctra. General De Hermigua,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;_U;-17.197144;28.165863
+BC-38-6-0000006;Kiosco Bar Garajonay;Bar-Cafeteria;C/ Triana;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;-17.265657;28.177992
+BC-38-6-0000007;Como En Casa;Bar-Cafeteria;Avda El Llano;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;-17.33514;28.08725
+BC-38-6-0000009;La  Isla;Bar-Cafeteria;Avda. Fred Olsen Locales 1-2 Edificio El Machal;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.108516;28.08978
+BC-38-6-0000010;Jonay Santaella Díaz;Bar-Cafeteria;Ctra. Gral. Tf-713 (Gm-3) P.K. 38,5;La Gomera;Santa Cruz De Tenerife;Alajero;_U;_U;0.0;0.0
+BC-38-6-0000011;Dulceria Herrera;Bar-Cafeteria;C/ Las Cruces;La Gomera;Santa Cruz De Tenerife;Alajero;_U;_U;-17.23359;28.05715
+BC-38-6-0000012;Moboca Cafe Bar;Bar-Cafeteria;Calle Cuesta Abisinia;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;-17.333938;28.08264
+BC-38-6-0000013;Tasca Morales;Bar-Cafeteria;Avda Fred Olsen Edf La Marina Locales 4 Y 5;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.109077;28.089785
+BC-38-6-0000014;Bar Gara;Bar-Cafeteria;Carretera General;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;_U;-17.190378;28.170918
+BC-38-6-0000015;La Casona;Bar-Cafeteria;Calle Real;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.110723;28.091656
+BC-38-6-0000016;Bar Central;Bar-Cafeteria;Plaza De La Constitución, Nº 3. Planta Baja;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;-17.266381;28.179472
+BC-38-6-0000017;Pizzeria Zoe;Bar-Cafeteria;"C/ Tanquito; Esquina Ruiz De Padron";La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.113307;28.094339
+BC-38-6-0000019;Bar Los Descubridores 1942;Bar-Cafeteria;Calle La Niña;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.10955;28.090982
+BC-38-6-0000020;Zumeria Puntallana;Bar-Cafeteria;C/Profesor Armas Fernandez;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+BC-38-6-0000021;Tasquita Las Eras ;Bar-Cafeteria;Parque Las Eras-Tecina;La Gomera;Santa Cruz De Tenerife;Alajero;_U;_U;0.0;0.0
+BC-38-6-0000023;"Noahs Ark Bread &Amp; Jam";Bar-Cafeteria;Calle La Puntilla, Edif. El Molino Local 24;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+BC-38-6-0000024;Showroom;Bar-Cafeteria;C/Santiago Apostol ,Edif Rolin Local 6;La Gomera;Santa Cruz De Tenerife;Alajero;_U;_U;0.0;0.0
+BC-38-6-0000025;El Tabaibal ;Bar-Cafeteria;Carretera General;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;_U;0.0;0.0
+BC-38-6-0000026;Bar Lucky Valle Gran Rey ;Bar-Cafeteria;C/ La Playa S/N Edificio Normara Local 12;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+BC-38-6-0000027;Heladeria Perita ;Bar-Cafeteria;Plaza De La Constitución;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+BC-38-6-0000028;Bar Cafeteria Casa La Capitana ;Bar-Cafeteria;Calle Real .Planta Baja -Patio;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+BC-38-6-0000029;Eh Ave Maria Pues ;Bar-Cafeteria;Carretera General Agulo;La Gomera;Santa Cruz De Tenerife;Agulo;_U;_U;0.0;0.0
+BC-38-6-0000031;Bodegas Niray;Bar-Cafeteria;C/ El Guanche, Sn;La Gomera;Santa Cruz De Tenerife;Alajero;_U;_U;0.0;0.0
+BC-38-6-0000032;Breads And Sweets;Bar-Cafeteria;C/ Torre Del Conde;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+BC-38-6-0000033;Kiosco Garajonay;Bar-Cafeteria;C/ Triana;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;0.0;0.0
+BC-38-6-0000034;Coffee Wings;Bar-Cafeteria;Calle Ruiz De Padron;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+BC-38-6-0000035;Bar Cancha San Cristobal La Lomada;Bar-Cafeteria;Ar Cancha San Cristobal, Camino Punallana, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+BC-38-6-0000036; El Sazon De Diana;Bar-Cafeteria;Mercado Municipal Puestos 4-5;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+C-38-6-0000001;Bar Cafetería Don Juan;Bar-Cafeteria;Carretera General De Hermigua;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.195339;28.167797
+C-38-6-0000002;Los Descubridores;Bar-Cafeteria;Avda. Los Descubridores,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11236;28.08864
+C-38-6-0000003;La Puntilla;Bar-Cafeteria;Avda. Marítima,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.338968;28.08738
+C-38-6-0000004;El Café De  La Villa;Bar-Cafeteria;Del Medio, 28;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+C-38-6-0000006;Arcilia;Bar-Cafeteria;Imada,;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.241341;28.086016
+C-38-6-0000007;Casa Club;Bar-Cafeteria;La Lomada De Tecina, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+R-38-6-0000006;Breñusca;Restaurante;Del Medio, 13;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110638;28.091241
+R-38-6-0000007;Amaya;Restaurante;Plaza De La Constitución, 2;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.266482;28.179159
+R-38-6-0000009;Las Rosas;Restaurante;Ctra. General Las Rosas,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.22218;28.186524
+R-38-6-0000014;Epina;Restaurante;Chorros De Epina,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.299146;28.163183
+R-38-6-0000016;Tagoror;Restaurante;Tecina - Playa Santiago,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.190736;28.03128
+R-38-6-0000019;Aramake Iii;Restaurante;Trasera, 24;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+R-38-6-0000021;El Palmar;Restaurante;Borbalan,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;-17.335507;28.090149
+R-38-6-0000024;La Carbonera;Restaurante;Ctra. General , 13;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.1983;28.149421
+R-38-6-0000025;Degollada De Peraza;Restaurante;Ctra General Del Sur Lg Peraza;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.18334;28.09858
+R-38-6-0000026;Playa;Restaurante;Avda. Marítima,;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.197801;28.028218
+R-38-6-0000027;Restaurante Conchita;Restaurante;Carretera General Arure;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.317884;28.135627
+R-38-6-0000028;Casanova;Restaurante;Avda. Marítima, 6;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.19833;28.027992
+R-38-6-0000031;Sebastián;Restaurante;La Pista,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33356;28.09639
+R-38-6-0000035;La Cabaña;Restaurante;El Langrero,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.131614;28.103042
+R-38-6-0000036;Casa Del Mar;Restaurante;Avda. Fred Olsen,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.10852;28.08978
+R-38-6-0000037;Playa Mar;Restaurante;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342366;28.095389
+R-38-6-0000038;Colombino;Restaurante;Ruiz De Padrón, 81;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.113113;28.093829
+R-38-6-0000039;Charco Del Conde;Restaurante;Charco Del Conde,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+R-38-6-0000040;Paraiso;Restaurante;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.340777;28.093564
+R-38-6-0000044;Inta;Restaurante;Ctra. Gral. Hermigua,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.12714;28.110239
+R-38-6-0000045;Yaya;Restaurante;Paseo Las Palmeras;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33523;28.08719
+R-38-6-0000046;Triana;Restaurante;Triana, 27;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.265666;28.178156
+R-38-6-0000047;La Romantica;Restaurante;Macayo,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.277023;28.167255
+R-38-6-0000049;El Bodegón;Restaurante;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342366;28.095389
+R-38-6-0000052;Quasimodo;Restaurante;Puerto Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33355;28.08215
+R-38-6-0000053;Bodegon Del Mar;Restaurante;Avda. Marítima, 35;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.19637;28.029089
+R-38-6-0000054;Los Organos;Restaurante;Guillermo Ascanio, 2;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.265878;28.17956
+R-38-6-0000055;Pizzeria La Avenida ;Restaurante;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342366;28.095389
+R-38-6-0000056;La Bambola;Restaurante;El Medio, 3;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.112582;28.093587
+R-38-6-0000058;Pizzeria La Tasca S.L.;Restaurante;Calle Ruiz De Padron;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111692;28.092019
+R-38-6-0000059;Maria;Restaurante;El Cercado,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.28635;28.12242
+R-38-6-0000061;La Cuevita;Restaurante;Playa Santiago,;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.198598;28.027342
+R-38-6-0000062;Marques De Oristano;Restaurante;Real, 24;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111027;28.09215
+R-38-6-0000065;Las Cumbres;Restaurante;Aguajilva,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111149;28.092346
+R-38-6-0000067;El Silbo;Restaurante;Ctra. General Del Norte,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.186125;28.178561
+R-38-6-0000068;America;Restaurante;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333989;28.084499
+R-38-6-0000073;Restaurante El Descansillo;Restaurante;C/ La Gurona;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.335123;28.095821
+R-38-6-0000074;Lola;Restaurante;Lepanto,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.338159;28.092943
+R-38-6-0000075;La Noria;Restaurante;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342366;28.095389
+R-38-6-0000076;Orone;Restaurante;Avda. Marítima, 14;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.197546;28.028376
+R-38-6-0000080;La Pista;Restaurante;Ctra. General La Calera,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+R-38-6-0000082;Retaurante Kuus;Restaurante;Avda. Maritima;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.19678;28.02869
+R-38-6-0000084;Victoria;Restaurante;El Cercado;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.28635;28.12242
+R-38-6-0000085;La Salsa;Restaurante;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334056;28.082695
+R-38-6-0000087;La Coromoto;Restaurante;Las Rosas,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.22201;28.18346
+R-38-6-0000088;Los Telares;Restaurante;El Patronato, 1;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.24213;28.10842
+R-38-6-0000092;Iballa;Restaurante;El Puerto,;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;0.0;0.0
+R-38-6-0000093;Columba;Restaurante;Caolumba,;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;0.0;0.0
+R-38-6-0000094;La Terraza Del Puerto;Restaurante;Av. Fred Olsen, Puerto Comercial De La Gomera;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.106991;28.088433
+R-38-6-0000095;La  Zula;Restaurante;La Montañeta,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.196601;28.18655
+R-38-6-0000096;Restaurante El Faro ;Restaurante;Santa Catalina;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.183326;28.177844
+R-38-6-0000098;Las Chacaras;Restaurante;Lomo De San Pedro,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.199338;28.148477
+R-38-6-0000100;Coco Loco;Restaurante;Borbalan,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334955;28.088905
+R-38-6-0000101;Kiosco Ramon;Restaurante;Plaza Torre Del Conde;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11169;28.09065
+R-38-6-0000102;Gomera Garden;Restaurante;El Medio, 16;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11968;28.09042
+R-38-6-0000103;La Montaña;Restaurante;Las Hayas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.2922;28.12862
+R-38-6-0000104;Bodegon Colon;Restaurante;Ruiz De Padrón,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111737;28.092102
+R-38-6-0000105;San Jose;Restaurante;La Playa, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+R-38-6-0000106;Orquidea;Restaurante;La Calera,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33511;28.09519
+R-38-6-0000108;Abisinia;Restaurante;Vueltas,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333989;28.084499
+R-38-6-0000109;Bar Restaurante Alameda;Restaurante;C/Alameda;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.195476;28.187272
+R-38-6-0000110;Benchijigua;Restaurante;Muelle S/S De La Gomera,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+R-38-6-0000111;La Fortuna;Restaurante;Ruiz De Padrón, 11;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111047;28.09099
+R-38-6-0000113;Restaurante Christie¿S;Restaurante;Avda. Marítima - Edif. La Condesa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+R-38-6-0000114;El Jape;Restaurante;Arure,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.320789;28.131494
+R-38-6-0000115;El Mirador;Restaurante;La Calera,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33511;28.09519
+R-38-6-0000116;Thai Bangkok Ii;Restaurante;Calle Normara, Local 5 Y 6;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.343065;28.096114
+R-38-6-0000117;El Baluarte;Restaurante;Avda. De Colón - Edif. Baluarte, 28;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.112806;28.092072
+R-38-6-0000119;Cosmopolitan;Restaurante;Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333442;28.082684
+R-38-6-0000120;Tasca-Bodega Los Primos ;Restaurante;Las Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333442;28.082684
+R-38-6-0000121;Café Billar;Restaurante;La Playa,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342366;28.095389
+R-38-6-0000123;Fu Ling;Restaurante;Lomo De Las Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333442;28.082684
+R-38-6-0000125;El Mundo;Restaurante;La Puntilla,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33873;28.08898
+R-38-6-0000127;Las Palmeras;Restaurante;Ctra- General,;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.23311;28.05696
+R-38-6-0000129;Cuba Libre;Restaurante;La Calera,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33511;28.09519
+R-38-6-0000130;Club Laurel;Restaurante;Tecina - Playa Santiago,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.19101;28.03225
+R-38-6-0000131;Rincón Del Marino;Restaurante;Vueltas - Edif. Gomera Verde,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334009;28.083369
+R-38-6-0000132;Bar La Vista;Restaurante;Barranco El Cedro,;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.214963;28.137137
+R-38-6-0000134;Roque Blanco;Restaurante;Cruz De Tierno,;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.24053;28.17177
+R-38-6-0000135;Los Girasoles;Restaurante;Residencial El Conde,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38600;0.0;0.0
+R-38-6-0000136;Albergue De Vegaipala;Restaurante;Vegaipala,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.204024;28.09325
+R-38-6-0000137;El Gran Sabor ;Restaurante;Avda. Marítima,  Loc. 5;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.196899;28.028679
+R-38-6-0000138;Garbanza;Restaurante;La Puntilla,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33873;28.08898
+R-38-6-0000139;Pizzeria Pinochio;Restaurante;La Puntilla,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.338812;28.088155
+R-38-6-0000140;Estación La Guagua;Restaurante;Mercado Municipal,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11352;28.09184
+R-38-6-0000144;Los Mocanes;Restaurante;Tamargada, S/N;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38891;-17.237354;28.183924
+R-38-6-0000145;El Balcon De Santa Ana ;Restaurante;Las Trincheras, S/N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.201711;28.025806
+R-38-6-0000146;Rincón Latino;Restaurante;Avda. Playa De Santiago, S/N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38810;0.0;0.0
+R-38-6-0000147;Tasca La Vieja Escuela;Restaurante;Poeta Trujillo Armas, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.194606;28.188969
+R-38-6-0000148;Salsa Burguer;Restaurante;La Playa, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334056;28.082695
+R-38-6-0000149;Mango;Restaurante;Paseo Las Palmeras;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342383;28.095371
+R-38-6-0000150;Restaurante La Hila ;Restaurante;Virgen De Guadalupe, 2;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109903;28.091477
+R-38-6-0000151;El Pejín;Restaurante;Real, 16;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.11066;28.091482
+R-38-6-0000152;Bar Restaurante Esperanto;Restaurante;Playa Las Vueltas, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.332591;28.082461
+R-38-6-0000153;El Charcon;Restaurante;Paseo El Charcon, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+R-38-6-0000155;Cafeteria Julio;Restaurante;Aeropuerto La Gomera, Carretera General;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.211962;28.030831
+R-38-6-0000156;Casa La Molina;Restaurante;La Montañeta, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.196944;28.186111
+R-38-6-0000157;Jugo De Bolas;Restaurante;La Plamita, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.230274;28.158786
+R-38-6-0000158;La Gondola De Vueltas;Restaurante;Edf. America, Vueltas , S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333669;28.082352
+R-38-6-0000159;Restaurante Juego De Bolas;Restaurante;La Palmita, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.230274;28.158786
+R-38-6-0000160;Zumeria Cafeteria Buenavista;Restaurante;Playa De Vueltas, Roque De Iguala Bajo,;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+R-38-6-0000161;Rincon Del Campesino;Restaurante;Las Rosas, S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38870;-17.226194;28.181259
+R-38-6-0000162;El Carraca;Restaurante;Nueva Creación, S/N;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;0.0;0.0
+R-38-6-0000163;Don Tomate;Restaurante;La Banda;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;-17.198299;28.027983
+R-38-6-0000164;La Islita;Restaurante;La Playa, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.343291;28.095878
+R-38-6-0000165;La Marea;Restaurante;Trasera Avda. Maritima, S/N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;0.0;0.0
+R-38-6-0000166;Bar-Restaurante  Junonia;Restaurante;Real, 51;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111827;28.093066
+R-38-6-0000168;Bar Restaurante El Retamal ;Restaurante;El Retamal , S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.311079;28.11842
+R-38-6-0000169;Goindia;Restaurante;La Noria, Esquina C/ Normara, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.343148;28.096124
+R-38-6-0000170;El Drago;Restaurante;Picos Hincados, S/N;La Gomera;Santa Cruz De Tenerife;Alajero;_U;38812;0.0;0.0
+R-38-6-0000171;Restaurante Auihrec;Restaurante;Del Medio, 23 San Sebastian De La Gomera;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+R-38-6-0000175;La Palmita;Restaurante;Juego De Bolas, 16;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.2156;28.17665
+R-38-6-0000179;Cafeteria-Churreria La Odisea;Restaurante;El Llano Edif.  El Llano, S/N;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.334586;28.085426
+R-38-6-0000180;Abraxas;Restaurante;Las Orijamas , 2;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.330517;28.099694
+R-38-6-0000181;Restaurante Colon;Restaurante;Real, 6;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.110527;28.091312
+R-38-6-0000182;Restaurante Tambara Cafe;Restaurante;C/ Las Vueltas;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.335081;28.083096
+R-38-6-0000183;Club Nautico La Gomera;Restaurante;Playa De La Cueva,;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.106635;28.089895
+R-38-6-0000185;Cuatro Caminos Gomera;Restaurante;Profesor Armas Fernandez , 1  Local;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.112462;28.091208
+R-38-6-0000186;Gomeralounche, S.L.;Restaurante;La Playa, 9;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.342811;28.095099
+R-38-6-0000187;Los Leones;Restaurante;Del Medio , 115;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.113994;28.095301
+R-38-6-0000188;El Meson;Restaurante;Republica De Chile, 05;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111164;28.091789
+R-38-6-0000189;La Pardela;Restaurante;Maritima , 1;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;0.0;0.0
+R-38-6-0000190;Restaurante La Punta;Restaurante;El Lamero, S/N;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;0.0;0.0
+R-38-6-0000192;La Tasca Del Chorro;Restaurante;El Chorro, Barranco De La Palmita , S/N;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;-17.230274;28.158786
+R-38-6-0000193;La Parrillada;Restaurante;Ruiz De Padron, 86;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.113119;28.093991
+R-38-6-0000194;Restaurante Pizzeria Chiquitin;Restaurante;C/ Abisinia . Vueltas;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.33443;28.083434
+R-38-6-0000195;Bar-Restaurante Amparo;Restaurante;Las Hayas, 13;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.29163;28.128742
+R-38-6-0000196;Triana Ii;Restaurante;Guillermo Ascanio, 0;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;-17.265342;28.180338
+R-38-6-0000197;Los Laureles ;Restaurante;La Constitución, , 8, Local;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.109818;28.091118
+R-38-6-0000198;Laguna Grande;Restaurante;Centro Recreativo Laguna Grande, 0;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;38840;0.0;0.0
+R-38-6-0000199;Restaurante Lo Colorado;Restaurante;General Playa Del Ingles, , 3 Eidf. Plaza Mayor;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.34316;28.095144
+R-38-6-0000200;Taguara Amelo;Restaurante;La Vega, 84 Las Rosas;La Gomera;Santa Cruz De Tenerife;Agulo;_U;38830;0.0;0.0
+R-38-6-0000201;Bar-Restaurante El Pajar;Restaurante;Ruiz De Padrón , 26;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;38800;-17.111269;28.091471
+R-38-6-0000202;Gastro Tacas Estadiio;Restaurante;General De Hermigua, 131;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.197558;28.165262
+R-38-6-0000203;Tasca Telemaco;Restaurante;De La Constitución, S/N, 0;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;38820;-17.193866;28.168159
+R-38-6-0000204;Osteria Al Pirata;Restaurante;El Cantil, , 2;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;38870;-17.333627;28.083147
+R-38-6-0000205;Restaurante Vista Hermosa;Restaurante;Calle El Lamero Nº 15;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.114381;28.086639
+R-38-6-0000206;Asador Las Colmenas;Restaurante;Las Colmenas, Arure;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;-17.315107;28.138343
+R-38-6-0000207;Gastrobar La Salamandra;Restaurante;Plaza De La Constitución;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.110009;28.091398
+R-38-6-0000208;Los Herrera;Restaurante;Plaza Nuestra Señora De La Encarnación;La Gomera;Santa Cruz De Tenerife;Hermigua;_U;_U;-17.19419;28.168713
+R-38-6-0000209;Ojalá;Restaurante;C/ Abisinia;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;-17.33475;28.08318
+R-38-6-0000210;Bar Restaurante Asociacion Tercera Edad;Restaurante;C/ Virgen De Guadalupe;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.109915;28.0916
+R-38-6-0000211;El Asador De Lara;Restaurante;Calle Ruiz De Padrón;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.113058;28.093889
+R-38-6-0000212;Bodegón Agana;Restaurante;Avenida Guillermo Ascanio;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;-17.265931;28.179764
+R-38-6-0000213;Bar Pensión Sonia S.L.;Restaurante;Plaza De Chipude;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;-17.28143;28.11116
+R-38-6-0000215;Bar Restaurante El Puerto;Restaurante;Calle Vueltas;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;-17.333974;28.083405
+R-38-6-0000216;Ambigú Restaurante;Restaurante;Plaza De Las Américas;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;-17.109773;28.090747
+R-38-6-0000217;Restaurante Sultan ;Restaurante;Barrio De Vueltas;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000218;Restaurante Sultan ;Restaurante;Barrio De Vueltas;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000219;"Pizzeria-Arepera ""Salud Y Suerte"" ";Restaurante;Avda. Guillermo Ascanio;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;0.0;0.0
+R-38-6-0000220;Tamahuche;Restaurante;Camino De San Pedro;La Gomera;Santa Cruz De Tenerife;Vallehermoso;_U;_U;0.0;0.0
+R-38-6-0000221;Bar Restaurante Orinoco ;Restaurante;C/La Noria  Edf Res. Las Mozas La Playa;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000222;Bar Restaurante Orinoco ;Restaurante;C/La Noria  Edf Res. Las Mozas La Playa;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000223;La Maresia ;Restaurante;C/ La Playa-Edificio Vistamar;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000224;Restaurante El Baluarte ;Restaurante;Avda Colon;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+R-38-6-0000225;Mango;Restaurante;Paseo Las Palmeras;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000226;Pizzeria Pinocchio;Restaurante;Paseo Las Palmeras;La Gomera;Santa Cruz De Tenerife;Valle Gran Rey;_U;_U;0.0;0.0
+R-38-6-0000227;" Kiosko ""La Orilla De Pepe""";Restaurante;Paseo Fred Olsen;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+R-38-6-0000228;Bar El Atajo;Restaurante;Calle Inchereda 1.;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
+R-38-6-0000229;Restaurante Pizxeria Agando;Restaurante;Plaza De La Constitución;La Gomera;Santa Cruz De Tenerife;San Sebastian De La Gomera;_U;_U;0.0;0.0
