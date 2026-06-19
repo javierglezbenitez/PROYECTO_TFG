@@ -116,5 +116,5 @@ El agente es accesible desde Telegram y genera recomendaciones turísticas perso
 
 > # Información de la consulta en la base de datos.
 
-![Conversación ambiente auténtico — información contextual](/results/otros_municipios_autnetico.png)
+![Conversación ambiente auténtico — información contextual](/results/base_datos_aut.png)
 
