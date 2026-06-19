@@ -96,17 +96,7 @@ El agente combina cuatro componentes:
 
 ## 🗺️ Resultados — Niveles turísticos por municipio
 
-El sistema asigna un nivel turístico a **todos los municipios del archipiélago canario**:
-
-| Nivel | Descripción | % fotos turistas |
-|-------|-------------|-----------------|
-| 1 | Turismo Muy Bajo | < 25% |
-| 2 | Turismo Bajo | 25–50% |
-| 3 | Turismo Alto | 50–75% |
-| 4 | Turismo Muy Alto | > 75% |
-
-> Ejemplos destacados: Arona y Adeje (Tenerife) → Nivel 4 · Valsequillo (Gran Canaria) → Nivel 1
-
+📂 [Ver mapas por isla y casos de uso del agente →](/results/results.md)
 ---
 
 ## 🌐 API REST
